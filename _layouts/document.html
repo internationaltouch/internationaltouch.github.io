@@ -1,0 +1,33 @@
+---
+layout: default
+---
+<style>
+  ol > li > ol {
+    list-style-type: lower-alpha;
+  }
+  dl > dt {
+    display: inline-block;
+    font-weight: bold;
+    float: left;
+    min-width: 200px;
+  }
+</style>
+
+{{ content }}
+
+<h2 id="authorisation">Authorisation</h2>
+
+<dl>
+  <dt>Approval Authority</dt>
+  <dd>{{ page.approval_authority }}</dd>
+  <dt>Responsible Officer</dt>
+  <dd>{{ page.responsible_officer }}</dd>
+  <dt>Date first approved</dt>
+  <dd>{{ page.first_approved | date: "%-d %B %Y" }}</dd>
+  <dt>Date last amended</dt>
+  <dd>{{ page.last_amended | default: page.first_approved | date: "%-d %B %Y" }}</dd>
+  <dt>Effective start date</dt>
+  <dd>{{ page.effective_date | default: page.last_amended | default: page.first_approved | date: "%-d %B %Y" }}</dd>
+  <dt>Date to be reviewed</dt>
+  <dd>{{ page.review_date | date: "%-d %B %Y" }}</dd>
+</dl>
