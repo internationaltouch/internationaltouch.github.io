@@ -162,7 +162,21 @@
     }
 }
 
+/**
+ * Home page column layout
+ */
+.home {
+    .col {
+        display: inline-block;
+        float: left;
+        width: 50%;
 
+        @include media-query($on-palm) {
+            font-size: 100%;
+            width: 100%;
+        }
+    }
+}
 
 /**
  * Page content
