@@ -1,5 +1,5 @@
 ---
-title: Code of Behaviour
+title: Code of Behaviour Policy
 
 approval_authority: President
 responsible_officer: Secretary General

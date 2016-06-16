@@ -1,5 +1,5 @@
 ---
-title: Event Commission Chair
+title: Coaching Commission Chair
 
 approval_authority: President
 responsible_officer: Secretary General
@@ -9,7 +9,7 @@ effective_date: null
 review_date: 2017-10-01
 ---
 
-# Event Commission Chair
+# Coaching Commission Chair
 
 ## About the Federation of International Touch
 
@@ -23,30 +23,30 @@ The FIT Constitution states the composition of the Board shall comprise of seven
 
 ## Primary Objectives of the Position
 
-The Event Commission Chair plays a lead role in facilitating/leading FIT events, including FIT World Cups or Club Championships, and regionally controlled International Championships.
+The Coaching Commission Chair plays a lead role in the ongoing development of Touch globally, with a commitment to continuous development and innovation in the coaching programs and approaches that are facilitated and delivered by FIT to Member Associations (National Touch Associations (NTAs)).
 
-The position works closely with Member Associations (National Touch Associations (NTAs)) by providing expert advice, and facilitating networking opportunities to share ideas and experiences. The Event Commission Chair also works in close collaboration with NTA Event managers to ensure the most up to date methods of staging events are utilised.
+The position works closely with NTAs to progress coaching development within their respective region by providing expert advice, FIT endorsed courses, programs and resources, and facilitating networking opportunities to share ideas and experiences.
 
-The Event Commission Chair is responsible for:
+The Coaching Commission consists of the Chair and a maximum of 10 members (2 maximum per region), representing the FIT regional structure.
 
-a.  Setting global standards for:
-    - Event education programs.
-    - Event competencies.
-    - Event assessments.
-    - Event performance and appointments.
-b.  Making recommendations to the FIT Board regarding event proposals (including requests for the sanction of FIT endorsed Test matches and FIT Event Classification), education programs, and seminars for NTAs.
+The Coaching Commission is responsible for setting global standards that underpin:
 
-The position of FIT Event Commission Chair is a voluntary position.
+-   Coaching education programs.
+-   Coaching competencies.
+-   Coaching assessments.
+-   Coaching performance and appointments.
+
+The position of FIT Coaching Commission Chair is a voluntary position.
 
 ## Length of Term
 
-The Event Commission Chair shall be appointed from the date of appointment to one month after the next election of Board members at the World Cup (approximately four year cycle). In the event that the FIT Board does not appoint an Event Commission Chair prior to the expiry of the individual term of appointment, the FIT Event Commission Chair may continue in office past the expiry date of appointment to maintain continuity of service until the FIT Board makes new appointments.
+The Coaching Commission Chair shall be appointed from the date of appointment to one month after the next election of Board members at the World Cup (approximately four year cycle). In the event that the FIT Board does not appoint the FIT Coaching Commission Chair and Members prior to the expiry of their individual terms of appointment, the Chair and Members may continue in office past the expiry date of appointment to maintain continuity of service until the FIT Board makes new appointments.
 
 Appointments made during the four year cycle and between Annual General Meetings will conclude as per the timeframe detailed above.
 
 ## Meetings and Time Commitment
 
-The Event Commission Chair may be required to spend an estimated 10 hours per month carrying out the position and undertaking responsibilities, however this may vary subject to particular activities, events and tournaments that may occur from time to time.
+The Coaching Commission Chair may be required to spend an estimated 15 hours per month carrying out the position and undertaking responsibilities, however this may vary subject to particular activities, events and tournaments that may occur from time to time.
 
 Annual activities and time commitment include the following.
 
@@ -63,13 +63,15 @@ Annual activities and time commitment include the following.
 
 ### Attendance at FIT World Cup Event and possible attendance at Regional Championships
 
+-   FIT World Cup is staged every four years
+-   European Championships are staged every two years
 -   7 days is required to attend each event with appropriate planning and preparation time to be considered in the lead up to the event, subject to FIT Board approval.
 
 ### Developmental and educational activities
 
--   Time commitment is based on the scope and requirements of the specific activity involved, and in some cases, may involve significant hours for the development and delivery of new or redesigned programs.
+-   Time commitment is based on the scope and requirements of the specific activity involved, and in some cases, may involve significant hours for the development and delivery of new or redesigned programs. In addition, coach observation and assessment activities may involve varying levels of time commitment.
 
-The Event Commission Chair will be required to travel internationally.
+The Coaching Commission Chair will be required to travel internationally.
 
 Expenses incurred through undertaking the responsibilities of the position are subject to reimbursement and/or payment by FIT in accordance with FIT Financial Policies.
 
@@ -77,7 +79,7 @@ Expenses incurred through undertaking the responsibilities of the position are s
 
 Internal relationships include:
 
--   The Event Commission Chair reports to the Sport Development Director.
+-   Coaching Commission Chair reports to the Sport Development Director.
 -   FIT Board members, Sub-committees and Commissions.
 
 External relationships include:
@@ -95,25 +97,23 @@ As defined in the FIT Delegations.
 
 ## Key Duties and Responsibilities
 
--   Provide expert advice and mentoring in event management ensuring activities reflect a commitment to best practice and ongoing improvement.
--   Develop FIT event education resources and provide education programs through courses, seminars and other activities.
--   Identify and endorse suitably qualified and experienced personnel to help deliver event education programs and development.
--   Conduct surveys with member NTA’s to identify, develop and enhance global standards in event management.
--   Provide networking opportunities for NTA’s to share ideas, experiences and initiatives for their ongoing development in event management.
--   Manage requests from NTAs for event proposals (including requests for the sanction of FIT endorsed Test matches and FIT Event Classification), education programs, seminars for NTAs, and make recommendations to the Sport Development Director.
--   Coordinate FIT Event Commission Member visits and expected outcomes with NTAs.
--   Prepare and present to the Board Host Nation Agreements related to FIT Touch World Championships.
--   Develop and maintain the FIT Event Calendar that details all International events and NTA National and regional events.
--   Manage historical FIT event information by maintaining a FIT Event Historical Register that records the details and results of all international events and NTA national and regional events.
--   Work in close collaboration across the various FIT portfolios and Commissions in delivering and/or facilitating event management at the regional/national and/or international level.
--   Ensure the Event Commission meets its organisational obligations through effectively managing its governance and operational activities.
--   Work with the Event Commission members to prepare written reports for submission to the FIT Board as necessary and as requested post the completion of International events and visits.
--   Develop and maintain close working relationships with NTAs with a focus on supporting members in building their event management capacity.
--   Act as primary spokesperson for FIT in relation to FIT endorsed events and activities.
+-   Provide strategic leadership in FIT coaching development ensuring activities reflect a commitment to best practice and ongoing improvement.
+-   Develop and implement strategies for the development of coaches globally in accordance with the FIT Strategic Plan, annual Operational Plan, and Sport Development Priorities.
+-   Oversee FIT coaching courses, programs, competencies and assessments globally.
+-   Assess and progress Coaching Commission Development Requests in consultation with Coaching Commission Members.
+-   Ensure FIT coaching related courses, programs, policies, processes and systems are developed, implemented, regularly reviewed and updated.
+-   Regularly update NTAs with any advancement in coaching techniques and/or trends.
+-   Coordinate Coaching Commission Member visits and expected outcomes with NTAs.
+-   Plan, implement and coordinate coaching activities associated with FIT endorsed tournaments, events and activities, including specific requirements as detailed in the associated [Coaching Commission Policies].
+-   Ensure the Coaching Commission meets its organisational obligations through effectively managing its governance and operational activities.
+-   Work with the Coaching Commission members to prepare written reports for submission to the FIT Board as necessary and as requested post the completion of International Events and visits.
+-   Appoint the members of the Coaching Commission, after consultation with, and endorsement by, the Sport Development Director and the FIT Board.
+-   Develop and maintain close working relationships with NTAs with a focus on supporting members in building their coaching capacity.
+-   Act as primary spokesperson for FIT in relation to coaching development activities associated with the Sport Development Portfolio.
 -   Actively support the organisation to maintain positive and productive relationships with members, media and other organisations.
--   Ensure informed decision-making is underpinned by high levels of ethics and integrity, and be committed to promoting responsible behaviours within the sport of Touch
+-   Ensure informed decision-making is underpinned by high levels of ethics and integrity, and be committed to promoting responsible behaviours within the sport of Touch.
 -   Perform all duties and responsibilities in accordance with the [FIT Code of Behaviour Policy] and [FIT Member Protection Policy].
--   Perform other responsibilities as may be assigned by the Board and Sport Development Director.
+-   Perform other responsibilities as may be assigned by the FIT Board and Sport Development Director.
 
 ## Qualifications and Other Requirements
 
@@ -123,15 +123,16 @@ Mandatory Qualifications
 
 Other Requirements:
 
--   Experience in event management at a regional/national/international level within a sporting environment is highly desirable.
+-   Experience in Touch coach development at a National/High Performance level for a minimum of 3 years is highly desirable.
+-   Possession of Coaching Accreditation and a Coaching Presenters Certificate (relevant to Touch).
 
 ## Knowledge, Experience, Skills and Attributes
 
--   Knowledge of event management and demonstrated experience in leading and facilitating major regional/national/international events in a sporting environment.
--   Experience in developing, delivering and/or facilitating event management related courses, programs, seminars, and forums at a regional/national and/or international level.
+-   Extensive knowledge and demonstrated experience in developing, delivering and/or facilitating Touch coaching courses, programs, seminars, and forums at a national and/or international level.
+-   Proven ability in the development and delivery of Touch related coaching programs and initiatives which promote and implement continuous development and innovation.
 -   Proven strategic leadership and management skills in the delivery of outcomes consistent with strategic frameworks and business strategies.
--   Proven ability to lead and motivate teams and work collaboratively with other FIT Board and Commission members in a constructive, challenging and supportive manner.
--   High level communication, negotiation and influencing skills with the ability to engage ad represent FIT effectively to members and a range of stakeholders, including NTA Event Managers, coaches, players and officials, at a national and international level.
+-   Proven ability to lead and motivate teams and work collaboratively with other Commission members in a constructive, challenging and supportive manner.
+-   High level communication, negotiation and influencing skills with the ability to engage ad represent FIT effectively to members and a range of stakeholders, including coaches, players and officials, at a national and international level.
 -   Proven ability to prepare detailed and complex briefing papers and reports on behalf of the Sport Development Portfolio and the FIT Board.
 -   Proven ability to manage under pressure, meet deadlines, effectively manage stakeholder expectations, and to manage sensitive and complex activities objectively.
 -   Ability to be a critical and innovative thinker with strong analytical and problem solving skills.
@@ -149,6 +150,7 @@ Other Requirements:
 Enquiries regarding this Position Description are to be directed to the [FIT Sport Development Director].
 
 
+[Coaching Commission Policies]: /policy/coaching/
 [FIT Code of Behaviour Policy]: /policy/code-of-behaviour/
 [FIT Conflict of Interest Policy]: /policy/conflict-of-interest/
 [FIT Constitution 2011]: https://www.internationaltouch.org/constitution/
