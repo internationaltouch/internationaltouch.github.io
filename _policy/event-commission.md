@@ -156,8 +156,8 @@ Refer to the following related policies and documents:
 Nil
 
 
-[Event Commission Chair]: https://github.com/internationaltouch/position-descriptions/blob/master/Event%20Commission%20Chair.md
-[Event Commission Member]: https://github.com/internationaltouch/position-descriptions/blob/master/Event%20Commission%20Member.md
+[Event Commission Chair]: /position/event-commission/chair/
+[Event Commission Member]: /position/event-commission/member/
 [Event Calendar]: https://www.internationaltouch.org/events/upcoming/
 
 [FIT Event Commission Request Form]: http://www.internationaltouch.org/events/request-form/
@@ -165,11 +165,11 @@ Nil
 
 <!-- Keep these sorted alphabetically -->
 
-[FIT Code of Behaviour Policy]: https://www.internationaltouch.org/policies/code-of-behaviour/
-[FIT Conflict of Interest Policy]: https://www.internationaltouch.org/policies/conflict-of-interest/
+[FIT Code of Behaviour Policy]: /policy/code-of-behaviour/
+[FIT Conflict of Interest Policy]: /policy/conflict-of-interest/
 [FIT Constitution 2011]: https://www.internationaltouch.org/constitution/
-[FIT Event Classification Policy]: https://www.internationaltouch.org/policies/event-classification/
-[FIT Member Protection Policy]: https://www.internationaltouch.org/policies/member-protection/
+[FIT Event Classification Policy]: /policy/event-classification/
+[FIT Member Protection Policy]: /policy/member-protection/
 [FIT Sport Development Director]: mailto:sportdevelopment@internationaltouch.org
 [FIT Strategic Plan]: https://www.internationaltouch.org/strategic-plan/
-[FIT Volunteer Policy]: https://www.internationaltouch.org/policies/volunteer/
+[FIT Volunteer Policy]: /policy/volunteer/

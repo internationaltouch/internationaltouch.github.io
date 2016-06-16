@@ -147,11 +147,11 @@ Refer to the following related policies and documents:
 Nil
 
 
-[FIT Coaching Commission Policy]: https://www.internationaltouch.org/policies/coaching/
-[FIT Conflict of Interest Policy]: https://www.internationaltouch.org/policies/conflict-of-interest/
+[FIT Coaching Commission Policy]: /policy/coaching/
+[FIT Conflict of Interest Policy]: /policy/conflict-of-interest/
 [FIT Constitution 2011]: https://www.internationaltouch.org/constitution/
-[FIT Member Protection Policy]: https://www.internationaltouch.org/policies/member-protection/
-[FIT Referees Commission Policy]: https://www.internationaltouch.org/policies/referees/
+[FIT Member Protection Policy]: /policy/member-protection/
+[FIT Referees Commission Policy]: /policy/referees/
 [FIT Secretary General]: mailto:secretary-general@internationaltouch.org
-[FIT Volunteer Policy]: https://www.internationaltouch.org/policies/volunteer/
+[FIT Volunteer Policy]: /policy/volunteer/
 [the Federation website]: http://www.internationaltouch.org/

@@ -209,14 +209,14 @@ Refer to the following related policies and documents:
 -   [Appendix 2: FIT Letter of Appointment Template]
 
 
-[FIT Coaching Commission Policy]: https://www.internationaltouch.org/policies/coaching/
-[FIT Code of Behaviour Policy]: https://www.internationaltouch.org/policies/code-of-behaviour/
-[FIT Conflict of Interest Policy]: https://www.internationaltouch.org/policies/conflict-of-interest/
+[FIT Coaching Commission Policy]: /policy/coaching/
+[FIT Code of Behaviour Policy]: /policy/code-of-behaviour/
+[FIT Conflict of Interest Policy]: /policy/conflict-of-interest/
 [FIT Constitution 2011]: https://www.internationaltouch.org/constitution/
-[FIT Financial Management Policy]: https://www.internationaltouch.org/policies/financial-management/
-[FIT Member Protection Policy]: https://www.internationaltouch.org/policies/member-protection/
-[FIT Privacy Policy]: https://www.internationaltouch.org/policies/privacy/
-[FIT Referees Commission Policy]: https://www.internationaltouch.org/policies/referees/
+[FIT Financial Management Policy]: /policy/financial-management/
+[FIT Member Protection Policy]: /policy/member-protection/
+[FIT Privacy Policy]: /policy/privacy/
+[FIT Referees Commission Policy]: /policy/referees/
 [FIT Secretary General]: mailto:secretary-general@internationaltouch.org
 
 <!-- Appendices -->
