@@ -11,7 +11,11 @@
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
   <style>
     ol > li > ol { list-style-type: lower-alpha; }
-    dl > dt { display: inline-block; font-weight: bold; float: left; min-width: 200px; }
+    dl > dt:before { clear: both; }
+    dl > dt { font-weight: bold; float: left; }
+    dl > dt + dt:before { content: " & "; font-weight: normal; }
+    dl > dt:after { content: " "; }
+    dl > dd { padding-bottom: 0.5em; }
     h2 { display: list-item; list-style-type: decimal; list-style-position: inside; }
   </style>
 

@@ -154,17 +154,6 @@ Refer to the following related policies and documents:
 
 - [Appendix 1: FIT Declaration of Private Interests]
 
-## Authorisation
-
-|                      |                   |
-| -------------------- | ----------------- |
-| Approval Authority   | President         |
-| Responsible Officer  | Secretary General |
-| Date first approved  | 06 June 2016      |
-| Date last amended    | N/A               |
-| Effective start date | 06 June 2016      |
-| Date to be reviewed  | 01 October 2017   |
-
 <!-- Keep these sorted alphabetically -->
 
 [FIT Coaching Commission Policy]: /policy/coaching/
