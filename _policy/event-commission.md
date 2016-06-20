@@ -2,7 +2,7 @@
 title: Event Commission Policy
 
 approval_authority: President
-responsible_officer: Secretary General
+responsible_officer: Sport Development Director
 first_approved: 2016-06-06
 last_amended: null
 effective_date: null
