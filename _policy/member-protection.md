@@ -1036,3 +1036,19 @@ Refer to the following related policies and documents:
 [FIT Volunteer Policy]: /policy/volunteer/
 
 [Dictionary of Terms]: #dictionary-of-terms
+
+<!-- Attachments C -->
+[Member Protection Declaration]: appendices/Member_Protection_Declaration.pdf
+[Working with Children Check Requirements]: appendices/Working_with_Children_Check_Requirements.pdf
+
+<!-- Attachments D -->
+[Complaints procedure]: appendices/Complaints_procedure.pdf
+[Mediation]: appendices/Mediation.pdf
+[Investigation procedure]: appendices/Investigation_procedure.pdf
+[Tribunal procedures]: appendices/Tribunal_procedures.pdf
+
+<!-- Attachments E -->
+[Record of informal complaint]: appendices/Record_of_Informal_Complaint.pdf
+[Record of formal complaint]: appendices/Record_of_Formal_Complaint.pdf
+[Handling an allegation of child abuse]: appendices/Handling_an_allegation_of_child_abuse.pdf
+[Confidential record of child abuse allegation]: appendices/Confidential_record_of_child_abuse_allegation.pdf
