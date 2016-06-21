@@ -4,6 +4,20 @@ layout: default
 
 <div class="home">
 
+  <div>
+    <h1 class="page-heading">Documents</h1>
+
+    <ul>
+      {% for my_page in site.pages %}
+        {% if my_page.title %}
+          <li>
+            <a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+  </div>
+
   <div class="col">
     <h1 class="page-heading">Policies</h1>
 

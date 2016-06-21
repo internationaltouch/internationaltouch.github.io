@@ -9,14 +9,25 @@
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
-  <style>
+  <style type="text/css">
+    li { padding-left: 0.3em; }
     ol > li > ol { list-style-type: lower-alpha; }
     dl > dt:before { clear: both; }
     dl > dt { font-weight: bold; float: left; }
     dl > dt + dt:before { content: " & "; font-weight: normal; }
     dl > dt:after { content: " "; }
     dl > dd { padding-bottom: 0.5em; }
-    h2 { display: list-item; list-style-type: decimal; list-style-position: inside; }
+    dl.authorisation > dt { min-width: 200px; }
+    dl.authorisation > dd { padding-bottom: 0.2em; }
+    h1 { counter-reset: heading subheading; }
+    h2:before { counter-increment: heading; content: counter(heading) "."; margin-right: 0.5em; }
+    h2 { counter-reset: subheading; }
+    h2.no_toc:before { counter-increment: none; content: none; }
+    h3:before { counter-increment: subheading; content: counter(heading) "." counter(subheading) "."; margin-right: 0.75em; }
+    h3.no_toc:before { counter-increment: none; content: none; }
+  </style>
+  <style type="text/css" media="print">
+    header, footer { display: none; }
   </style>
 
 </head>
