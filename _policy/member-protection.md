@@ -94,8 +94,8 @@ FIT's Vision, Mission and values
     legislation and/or government sports agency that is relevant to that county and the NTA.
 
     In which case, the alternate policy shall apply to the organisations and individuals set out in
-    clause 2.1 above in relation to the activities of the NTAs and its affiliated associations
-    provided that:
+    [clause 2.1](#purpose-of-this-policy) above in relation to the activities of the NTAs and its
+    affiliated associations provided that:
 
     1.  where this policy provides greater protection to such organisations and individuals, and
         such organisations and individuals are aggrieved that such protection does not apply under
@@ -257,7 +257,7 @@ more of the personal characteristics protected by International and NTAs laws
 
 The personal characteristics protected by anti-discrimination laws include attributes such as race,
 age, disability, gender and race. The full list of protected personal characteristics is in the
-*Definitions* set out in the Dictionary of Terms.
+*Definitions* set out in the [Dictionary of Terms].
 
 Discrimination can be either direct or indirect.
 
@@ -285,7 +285,7 @@ or physical. Sexual harassment is not limited to members of the opposite sex.
 #### Prohibition against discrimination and harassment
 
 We prohibit all forms of harassment and discrimination based on the personal characteristics listed
-in the "Definitions" set out in the Dictionary of Terms \[see clause 10\].
+in the "Definitions" set out in the [Dictionary of Terms].
 
 Any person who believes they are being, or have been, harassed or discriminated against by another
 person or organisation bound by this policy is encouraged to raise their concerns with us. A person
@@ -349,123 +349,98 @@ or other official. Our complaints procedure is outlined in Part D of this policy
 
 ### Pregnancy
 
-FIT or its NTAs and their affiliated associations are committed to
-treating pregnant women fairly and to removing any unreasonable
-barriers to their full participation in our sport. We will not
+FIT or its NTAs and their affiliated associations are committed to treating pregnant women fairly
+and to removing any unreasonable barriers to their full participation in our sport. We will not
 tolerate any discrimination or harassment against pregnant women.
 
-FIT or its NTA and their affiliated associations will take reasonable
-care to ensure the continuing safety, health and wellbeing of pregnant
-women. We will advise pregnant women that there may be risks involved
-with their continuing participation in sport, and we will encourage
-them to obtain medical advice about those risks. Pregnant women should
-be aware that their own health and wellbeing, and that of their unborn
-child, is of utmost importance in their decision-making about the
-extent they choose to participate in our sport.
+FIT or its NTA and their affiliated associations will take reasonable care to ensure the continuing
+safety, health and wellbeing of pregnant women. We will advise pregnant women that there may be
+risks involved with their continuing participation in sport, and we will encourage them to obtain
+medical advice about those risks. Pregnant women should be aware that their own health and
+wellbeing, and that of their unborn child, is of utmost importance in their decision-making about
+the extent they choose to participate in our sport.
 
-We encourage all pregnant women to talk with their medical advisers,
-make themselves aware of the facts about pregnancy in sport and ensure
-that they make informed decisions about their participation in our
-sport. Pregnant women should make these decisions themselves, in
-consultation with their medical advisers and in discussion with FIT or
-its NTAs and their affiliates
+We encourage all pregnant women to talk with their medical advisers, make themselves aware of the
+facts about pregnancy in sport and ensure that they make informed decisions about their
+participation in our sport. Pregnant women should make these decisions themselves, in consultation
+with their medical advisers and in discussion with FIT or its NTAs and their affiliates
 
-We will only require pregnant women to sign a disclaimer in relation
-to their participation in our sport whilst they are pregnant if all
-other participants are required to sign one in similar circumstances.
-We will not require women to undertake a pregnancy test.
+We will only require pregnant women to sign a disclaimer in relation to their participation in our
+sport whilst they are pregnant if all other participants are required to sign one in similar
+circumstances.  We will not require women to undertake a pregnancy test.
 
-If a pregnant woman believes she is being, or has been, harassed or
-discriminated against by another person or organisation bound by this
-policy, she may make a complaint. (Refer to the attachments in Part D
-of this policy.)
+If a pregnant woman believes she is being, or has been, harassed or discriminated against by another
+person or organisation bound by this policy, she may make a complaint. (Refer to the attachments in
+Part D of this policy.)
 
 ### Gender identity
 
-Gender identity means the gender-related identity, appearance or
-mannerisms or other gender-related characteristics of a person. This
-includes the way people express or present their gender and recognizes
-that a person's gender identity may be an identity other than male or
-female. Some terms used to describe a person's gender identity include
-trans, transgender and gender diverse.
+Gender identity means the gender-related identity, appearance or mannerisms or other gender-related
+characteristics of a person. This includes the way people express or present their gender and
+recognizes that a person's gender identity may be an identity other than male or female. Some terms
+used to describe a person's gender identity include trans, transgender and gender diverse.
 
 #### Gender identity discrimination and harassment
 
-Anti-discrimination laws provide protection from discrimination
-against people on the basis of their gender identity. (See definition
-in Dictionary of terms).
+Anti-discrimination laws provide protection from discrimination against people on the basis of their
+gender identity. (See definition in Dictionary of terms).
 
-FIT is committed to providing a safe, fair and inclusive sporting
-environment all where people can contribute and participate. We will
-not tolerate any unlawful discrimination or harassment of a person
-because of their gender identity.
+FIT is committed to providing a safe, fair and inclusive sporting environment all where people can
+contribute and participate. We will not tolerate any unlawful discrimination or harassment of a
+person because of their gender identity.
 
-All persons, regardless of gender identity, are entitled to be treated
-fairly and with dignity and respect at all times. We will not tolerate
-any unlawful discrimination or harassment of a person because of their
-gender identity. This includes discrimination or harassment of a
-person who is transgender or transsexual, who is assumed to be
-transgender or transsexual or has an association with someone who has
-or is assumed to be transgender or transsexual. (Refer to the
-attachments in Part D of this policy.)
+All persons, regardless of gender identity, are entitled to be treated fairly and with dignity and
+respect at all times. We will not tolerate any unlawful discrimination or harassment of a person
+because of their gender identity. This includes discrimination or harassment of a person who is
+transgender or transsexual, who is assumed to be transgender or transsexual or has an association
+with someone who has or is assumed to be transgender or transsexual. (Refer to the attachments in
+Part D of this policy.)
 
-We expect all people bound by this policy to act with sensitivity when
-a person is undergoing gender transition/affirmation.
+We expect all people bound by this policy to act with sensitivity when a person is undergoing gender
+transition/affirmation.
 
-If any person believes that they are being, or have been, harassed or
-discriminated against by another person or organisation bound by this
-policy because of their gender identity, they may make a complaint.
+If any person believes that they are being, or have been, harassed or discriminated against by
+another person or organisation bound by this policy because of their gender identity, they may make
+a complaint.
 
 #### Participation in sport
 
-FIT recognizes that excluding people from participating in sporting
-events and activities because of their gender identity may have
-significant implications for their health, wellbeing and involvement
-in community life. We are committed to supporting participation in our
-sport on the basis of the gender with which a person identifies.
+FIT recognizes that excluding people from participating in sporting events and activities because of
+their gender identity may have significant implications for their health, wellbeing and involvement
+in community life. We are committed to supporting participation in our sport on the basis of the
+gender with which a person identifies.
 
-If issues of performance advantage arise, we will consider whether the
-established discrimination exceptions for participation in sport are
-relevant in the circumstances. Discrimination is unlawful unless an
-exception applies.
+If issues of performance advantage arise, we will consider whether the established discrimination
+exceptions for participation in sport are relevant in the circumstances. Discrimination is unlawful
+unless an exception applies.
 
-Drug testing procedures and prohibitions also apply to people who
-identify as transgender. A person receiving treatment involving a
-Prohibited Substance or Method, as described on the World Anti-Doping
-Agency's Prohibited List, should apply for a standard Therapeutic Use
-Exemption.
+Drug testing procedures and prohibitions also apply to people who identify as transgender. A person
+receiving treatment involving a Prohibited Substance or Method, as described on the World
+Anti-Doping Agency's Prohibited List, should apply for a standard Therapeutic Use Exemption.
 
 #### Intersex status
 
-FIT is committed to providing a safe, fair and inclusive sporting
-environment where all people can contribute and participate. We will
-not tolerate any unlawful discrimination or harassment of a person
-because of their intersex status.
+FIT is committed to providing a safe, fair and inclusive sporting environment where all people can
+contribute and participate. We will not tolerate any unlawful discrimination or harassment of a
+person because of their intersex status.
 
 ### Responsible service and consumption of alcohol
 
-FIT is committed to conducting sporting and social events in a manner
-that promotes the responsible service and consumption of alcohol. We
-also recommend that NTAs and their affiliated Associations follow
-strict guidelines regarding the service and consumption of alcohol.
+FIT is committed to conducting sporting and social events in a manner that promotes the responsible
+service and consumption of alcohol. We also recommend that NTAs and their affiliated Associations
+follow strict guidelines regarding the service and consumption of alcohol.
 
 In general, our policy is that:
 
--   alcohol should not be available or consumed at sporting events
-    involving children and young people under the age of 18;
-
--   alcohol-free social events be provided for young people and
-    families;
-
--   food and low-alcohol and non-alcoholic drinks be available at events
-    we hold or endorse where alcohol is served;
-
--   a staff member is present at events we hold or endorse where alcohol
-    is served to ensure appropriate practices in respect of the
-    consumption of alcohol are followed;
-
--   safe transport options be promoted as part of any event we hold or
-    endorse where alcohol is served.
+-   alcohol should not be available or consumed at sporting events involving children and young
+    people under the age of 18;
+-   alcohol-free social events be provided for young people and families;
+-   food and low-alcohol and non-alcoholic drinks be available at events we hold or endorse where
+    alcohol is served;
+-   a staff member is present at events we hold or endorse where alcohol is served to ensure
+    appropriate practices in respect of the consumption of alcohol are followed;
+-   safe transport options be promoted as part of any event we hold or endorse where alcohol is
+    served.
 
 ### Smoke-free environment
 
@@ -567,7 +542,7 @@ whether that is an appropriate way to handle the particular complaint.. For exam
 require that the complaint/allegation be reported to an appropriate authority.
 
 All complaints will be dealt with promptly, seriously, sensitively and confidentially. Our
-procedures for handling and resolving complaints are outlined in Attachment \[D1\].
+procedures for handling and resolving complaints are outlined in [Complaints procedure].
 
 Individuals and organisations may also seek to have their complaint handled by an external agency
 under anti-discrimination, child protection, criminal or other relevant legislation.
@@ -601,7 +576,7 @@ Information Officer, Complaints Manger CEO will, in consultation with the compla
 an independent mediator where possible. We will not allow lawyers to negotiate on behalf of the
 complainant and/or the respondent in the mediation process.
 
-More information on the mediation process is outlined in Attachment D2.
+More information on the mediation process is outlined in [Mediation].
 
 ### Tribunals
 
@@ -613,11 +588,11 @@ In accordance with the FIT's rules a Tribunal may be convened to hear a proceedi
     NTA directs it to be.
 -   For an alleged breach of this policy.
 
-Our Tribunal procedure is outlined in Attachment \[D4\].
+Our Tribunal procedure is outlined in [Tribunal procedures].
 
 A respondent may lodge an appeal to the Appeal Tribunal in respect of a Tribunal decision. The
 decision of the Appeal Tribunal is final and binding on the people involved. Our appeals process is
-outlined in Attachment \[D4\].
+outlined in [Tribunal procedures].
 
 Every organisation bound by this policy will recognize and enforce any decision of a Tribunal or
 Appeal Tribunal under this policy.
@@ -647,25 +622,22 @@ contrary to this policy, including but not limited to:
 
 ## Disciplinary measures
 
-FIT, its NTAs and their affiliated associations may impose
-disciplinary measures on an individual or organisation for a breach of
-this policy.
+FIT, its NTAs and their affiliated associations may impose disciplinary measures on an individual or
+organisation for a breach of this policy.
 
 Any disciplinary measure imposed will be:
 
 -   fair and reasonable;
--   applied consistent with any contractual and employment rules and
-    requirements;
--   be based on the evidence and information presented and the
-    seriousness of the breach; and
--   be determined in accordance with our constituent documents, by-laws,
-    this policy and/or the rules of the sport.
+-   applied consistent with any contractual and employment rules and requirements;
+-   be based on the evidence and information presented and the seriousness of the breach; and
+-   be determined in accordance with our constituent documents, by-laws, this policy and/or the
+    rules of the sport.
 
 ### Individual
 
-Subject to contractual and employment requirements, if a finding is
-made by a Tribunal that an individual has breached this policy, one or
-more of the following forms of discipline may be imposed.
+Subject to contractual and employment requirements, if a finding is made by a Tribunal that an
+individual has breached this policy, one or more of the following forms of discipline may be
+imposed.
 
 1.  a direction that the individual make a verbal and/or written apology;
 2.  a written warning;
@@ -684,10 +656,9 @@ more of the following forms of discipline may be imposed.
 
 ### Organisation
 
-If a finding is made that FIT, its NTAs and their affiliated
-associations has breached its own or this Member Protection Policy*,*
-one or more of the following forms of discipline may be imposed by the
-relevant body
+If a finding is made that FIT, its NTAs and their affiliated associations has breached its own or
+this Member Protection Policy*,* one or more of the following forms of discipline may be imposed by
+the relevant body
 
 1.  a written warning;
 2.  a fine;
@@ -701,8 +672,8 @@ relevant body
 
 ### Factors to consider
 
-The form of discipline to be imposed on an individual or organisation
-will depend on factors, such as:
+The form of discipline to be imposed on an individual or organisation will depend on factors, such
+as:
 
 -   the nature and seriousness of the breach
 -   if the person knew, or should have known, that the behaviour was a breach of the policy
@@ -744,23 +715,20 @@ Child abuse
     is often by those they know and trust. It can take many forms. Children may be harmed by both
     verbal and physical actions and by people failing to provide them with basic care.  Child abuse
     may include:
-    -   Physical abuse by hurting a child or a child's development (e.g.
-        hitting, shaking or other physical harm; giving a child alcohol or
-        drugs; giving bad nutritional advice; or training that exceeds the
-        child's development or maturity).
-    -   Sexual abuse by adults or other children where a child is encouraged
-        or forced to watch or engage in sexual activity or where a child is
-        subject to any other inappropriate conduct of a sexual nature (e.g.
-        sexual intercourse, masturbation, oral sex, pornography including
+    -   Physical abuse by hurting a child or a child's development (e.g.  hitting, shaking or other
+        physical harm; giving a child alcohol or drugs; giving bad nutritional advice; or training
+        that exceeds the child's development or maturity).
+    -   Sexual abuse by adults or other children where a child is encouraged or forced to watch or
+        engage in sexual activity or where a child is subject to any other inappropriate conduct of
+        a sexual nature (e.g.  sexual intercourse, masturbation, oral sex, pornography including
         child pornography or inappropriate touching or conversations).
-    -   Emotional abuse by ill-treating a child (e.g. humiliation, taunting,
-        sarcasm, yelling, negative criticism, name calling, ignoring or
-        placing unrealistic expectations on a child).
-    -   Neglect (e.g. failing to give food, water, shelter or clothing or to
-        protect a child from danger or foreseeable risk of harm or injury).
+    -   Emotional abuse by ill-treating a child (e.g. humiliation, taunting, sarcasm, yelling,
+        negative criticism, name calling, ignoring or placing unrealistic expectations on a child).
+    -   Neglect (e.g. failing to give food, water, shelter or clothing or to protect a child from
+        danger or foreseeable risk of harm or injury).
 
 Complaint
-:   means a complaint made under clause \[7\] of this policy
+:   means a complaint made under [clause 7](#complaints-procedures) of this policy
 
 Complainant
 :   means the person making a complaint.
@@ -827,11 +795,6 @@ Gender expression
 :   The term *gender expression* refers to the way in which a person externally expresses their
     gender or how they are perceived by others.
 
-Intersex
-:   The term *intersex* refers to people who have genetic, hormonal or physical characteristics that
-    are not exclusively *male* or *female*. A person who is intersex may identify as male, female,
-    intersex or as being of indeterminate sex.
-
 Harassment
 :   is any type of unwelcome behaviour which has the effect of offending, humiliating or
     intimidating the person harassed. Unlawful harassment can be based on any of the personal
@@ -844,16 +807,16 @@ Harassment
     other grounds such as homosexuality, gender identity, HIV/AIDS, religion and disability (see
     also *Vilification*).
 
-Intersex
-:   The term *intersex* refers to people who have genetic, hormonal or physical characteristics that
-    are not exclusively *male* or *female*. A person who is intersex may identify as male, female,
-    intersex or as being of indeterminate sex.
-
 Independent Mediator
 :   means a person appointed to mediate complaints made under this policy. It is preferable that the
     mediator has relevant skills, qualifications and/or training in mediation. The person's /
     representative that are appointed must not be related to the issue and has no relationship to
     any individuals involved.
+
+Intersex
+:   The term *intersex* refers to people who have genetic, hormonal or physical characteristics that
+    are not exclusively *male* or *female*. A person who is intersex may identify as male, female,
+    intersex or as being of indeterminate sex.
 
 Intersex Status
 :   means a general term used for a variety of conditions in which a person is born with a
@@ -1016,10 +979,10 @@ Attachment D2
 :   [Mediation]
 
 Attachment D3
-:   Investigation procedure
+:   [Investigation procedure]
 
 Attachment D4
-:   Tribunal procedures
+:   [Tribunal procedures]
 
 ## Complaints Procedure Flowchart
 
@@ -1071,3 +1034,5 @@ Refer to the following related policies and documents:
 [FIT Constitution 2011]: https://www.internationaltouch.org/constitution/
 [FIT Referees Commission Policy]: /policy/referees/
 [FIT Volunteer Policy]: /policy/volunteer/
+
+[Dictionary of Terms]: #dictionary-of-terms
