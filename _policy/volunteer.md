@@ -293,9 +293,9 @@ Volunteer commitment is varied in accordance with the position to which the volu
         expenditure by the FIT Board. Further details of costs that are considered suitable for
         reimbursement and associated approval processes and delegations are found in the
         [FIT Financial Management Policy].
-    3.  It is expected that volunteers will conduct meetings/discussions via Skype or other free
-        internet-based communication and that the volunteer will be responsible for their own
-        computer, internet and other communication requirements.
+    3.  It is expected that volunteers will video conference using free internet-based communication
+        and that the volunteer will be responsible for their own computer, internet and other
+        communication requirements.
 
 15. Requirements of National Touch Association (NTA) in relation to FIT Board nominations
     1.  The respective NTA of the Board volunteer is required to confirm that it endorses the

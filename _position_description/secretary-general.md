@@ -73,7 +73,7 @@ Annual activities and time commitment include the following.
 
 ### Board meetings
 
--   11 Board Meetings per annum of 2-3 hours duration (via Skype).
+-   11 Board Meetings per annum of 2-3 hours duration (via video conference).
 -   Preparation time for each Board meeting of 4-6 hours.
 -   One AGM per year in various venues (face to face meeting).
 

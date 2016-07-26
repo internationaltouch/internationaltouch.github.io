@@ -185,7 +185,7 @@ participate in regular, quality events.
         FIT strategic and operational plans, events program, as well as other activities being
         undertaken by the various FIT Commissions and Committees.
     3.  The progress of the Event Commission will be a standard agenda item for the FIT Board
-        governance Skype meetings until determined otherwise.
+        governance video conferences until determined otherwise.
 
 11. Financial Operations of the Event Commission
     1.  Membership of the Event Commission is on a volunteer basis for which no fees or remuneration

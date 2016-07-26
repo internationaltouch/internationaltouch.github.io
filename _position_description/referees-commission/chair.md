@@ -57,12 +57,12 @@ Annual activities and time commitment include the following.
 ### Commission meetings
 
 -   Commission Meetings are conducted on an as needs basis and vary in duration (dependant on agenda and/or issues).
--   Estimate 3-6 Commission Meetings per annum of 2-3 hours duration via Skype.
+-   Estimate 3-6 Commission Meetings per annum of 2-3 hours duration via video conference.
 -   Preparation time of 1-2 hours for each Commission meeting.
 
 ### Meetings with the Sport Development Director
 
--   Skype and face to face
+-   Video conference and face to face
 -   3-6 Meetings per annum of 1-2 hours duration (dependent on agenda).
 
 ### Attendance at FIT World Cup Event and possible attendance at Regional Championships
