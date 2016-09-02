@@ -74,8 +74,6 @@ changes and/or additions to the above purposes.
 
 ## Membership of the Coaching Commission
 
-### Membership
-
 The Coaching Commission, appointed by the FIT Board under Rule 36, FIT Constitution 2011, shall
 consist of:
 
@@ -148,8 +146,6 @@ Sessions:
 
 ## Coaching Programs
 
-### Coaching Programs
-
 The policy applies to the following FIT Coaching Programs:
 
 -   FIT Introductory Coaching Course
@@ -161,8 +157,6 @@ Coaching Qualifications will be for 5 years.
 
 ## FIT Coaching Register
 
-### Register
-
 The Coaching Commission will work with NTAs to ensure that a register is maintained which details
 the following:
 
@@ -172,8 +166,6 @@ the following:
 -   FIT Coaching Presenters
 
 ## Submissions
-
-### Coaching Requests
 
 All coaching requests, proposals, etc for coaching education programs are to be submitted to the FIT
 Sport Development Director on the Sport Development Proposal/Request form for endorsement.
