@@ -4,8 +4,8 @@ title: Coaching Commission Chair
 approval_authority: President
 responsible_officer: Secretary General
 first_approved: 2016-06-06
-last_amended: null
-effective_date: null
+last_amended: 2016-09-03
+effective_date: 2016-06-06
 review_date: 2017-10-01
 ---
 
