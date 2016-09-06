@@ -50,7 +50,7 @@ and the "Over 30" age groups.
 
 Not all divisions will be contested at all events.
 
-Eligibility to compete in a recoginised division is defined by the [FIT Player Eligibility Policy].
+Eligibility to compete in a recognised division is defined by the [FIT Player Eligibility Policy].
 
 ## FIT recognised playing division policy
 
