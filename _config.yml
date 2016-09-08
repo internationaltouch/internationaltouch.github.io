@@ -23,10 +23,10 @@ markdown: kramdown
 collections:
   policy:
     output: true
-    permalink: /policy/:path
+    permalink: /policy/:path/
   position_description:
     output: true
-    permalink: /position/:path
+    permalink: /position/:path/
 
 defaults:
   - scope:

@@ -9,7 +9,7 @@ last_amended: 2011-08-19
 effective_date: 2011-08-19
 review_date: null
 
-permalink: /constitution
+permalink: /constitution/
 ---
 
 # Constitution
