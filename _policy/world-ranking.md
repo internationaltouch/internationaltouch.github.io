@@ -27,8 +27,15 @@ from 29th April 2019 when ranking points will decay to zero value.*
 ## Definitions
 
 Average
-:   the number calculated by dividing the sum of the values in the set by the number of values in
+:   the number calculated by dividing the sum of the values in a set by the number of values in
     the set
+
+Decay
+:   a gradual decrease applied to ranking points over time to place greater importance on more
+    recent results
+
+Factor
+:   a fact or circumstance that contributes to the calculation of ranking points per match
 
 NTA
 :   National Touch Association
@@ -38,6 +45,9 @@ Round robin
 
 Subdivision
 :   a second order group of teams following progression from initially seeded pools
+
+Variable
+:   a quantity which during calculation of ranking points varies in value per match
 
 ## Regulatory background
 
