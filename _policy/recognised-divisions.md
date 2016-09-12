@@ -65,7 +65,7 @@ Eligibility to compete in a recognised division is defined by the [FIT Player El
 -   Open
 -   Under 15
 -   Under 18
--   Under 21
+-   Under 20
 -   Over 30
 -   Over 35
 -   Over 40
@@ -84,13 +84,13 @@ Eligibility to compete in a recognised division is defined by the [FIT Player El
 
 -   Boys Under 15 (B15)
 -   Boys Under 18 (B18)
--   Mens Under 21 (M21)
+-   Mens Under 20 (M20)
 -   Girls Under 15 (G15)
 -   Girls Under 18 (G18)
--   Womens Under 21 (W21)
+-   Womens Under 20 (W20)
 -   Mixed Under 15 (X15)
 -   Mixed Under 18 (X18)
--   Mixed Under 21 (X21)
+-   Mixed Under 20 (X20)
 
 #### Senior divisions
 
