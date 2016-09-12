@@ -20,6 +20,10 @@ Member NTA in each recognised division.
 
 The policy applies to all teams representing an NTA in a recognised division of a Tier 1-3 event.
 
+Matches played since 28th April 2015 (the commencement of the Touch World Cup hosted by Austraila
+in Coffs Harbour) will be considered in calculating ranking points. *This clause becomes unnecessary
+from 29th April 2019 when ranking points will decay to zero value.*
+
 ## Definitions
 
 Average
