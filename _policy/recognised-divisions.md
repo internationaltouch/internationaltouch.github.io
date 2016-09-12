@@ -3,7 +3,7 @@ title: Recognised Playing Divisions Policy
 
 approval_authority: Sport Development Officer
 responsible_officer: Event Commission Chair
-first_approved: 2016-09-06
+first_approved: null
 last_approved: null
 effective_date: null
 review_date: 2020-10-01
