@@ -14,8 +14,8 @@ review_date: 2020-10-01
 ## Purpose of policy
 
 The purpose of this policy is to provide the definitive list of playing divisions which FIT
-recognises.  This policy gives clear direction to Member NTA's allowing them to engage in planning
-exchanges and is essential to in allowing FIT to produce world rankings.
+recognises. This policy gives clear direction to Member NTA's allowing them to engage in planning
+exchanges and is essential in allowing FIT to produce world rankings.
 
 ## Policy scope and application
 
