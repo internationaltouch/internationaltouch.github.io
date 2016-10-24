@@ -44,10 +44,6 @@ N/A
 
 ## Policy statement
 
-The complete list of recognised playing divisions is the product of the recognised categories and
-the recognised age groups, with the exception of Mixed. Mixed is limited to the Open, all "Under"
-and the "Over 30" age groups.
-
 Not all divisions will be contested at all events.
 
 Eligibility to compete in a recognised division is defined by the [FIT Player Eligibility Policy].
