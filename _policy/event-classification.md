@@ -12,4 +12,8 @@ review_date: null
 
 # FIT Event Classification Policy
 
-This policy is under review by the FIT Board.
+This policy is under review by the FIT Board -- the current version of this policy is available on
+the [Events](https://www.internationaltouch.org/events/) section of the [FIT website].
+
+
+[FIT website]: https://www.internationaltouch.org/
