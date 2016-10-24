@@ -101,6 +101,7 @@ Eligibility to compete in a recognised division is defined by the [FIT Player El
 -   Womens Over 45 (W45)
 -   Womens Over 50 (W50)
 -   Mixed Over 30 (X30)
+-   Mixed Over 40 (X40)
 
 ## Contact
 
