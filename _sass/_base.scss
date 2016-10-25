@@ -186,6 +186,12 @@ pre {
     }
 }
 
+div {
+  &.clearfix {
+    clear: both;
+  }
+}
+
 
 
 /**
