@@ -253,4 +253,4 @@ Refer to the following related policies and documents:
 [FIT Secretary General]: mailto:secretary-general@internationaltouch.org
 [FIT Volunteer Policy]: /policy/volunteer/
 
-[Appendix 1: FIT Declaration of Private Interests]: appendices/Declaration_of_Private_Interests.pdf
+[Appendix 1: FIT Declaration of Private Interests]: ../appendices/Declaration_of_Private_Interests.pdf

@@ -986,7 +986,7 @@ Attachment D4
 
 ## Complaints Procedure Flowchart
 
-![image](complaints-procedure-flowchart.svg)
+![image](../complaints-procedure-flowchart.svg)
 
 This flowchart refers to the procedure as detailed in Clause 7 and Part D and should be used as a
 guide in handling complaints. This procedure should be utilized at the level that the complaint has
@@ -1038,17 +1038,17 @@ Refer to the following related policies and documents:
 [Dictionary of Terms]: #dictionary-of-terms
 
 <!-- Attachments C -->
-[Member Protection Declaration]: appendices/Member_Protection_Declaration.pdf
-[Working with Children Check Requirements]: appendices/Working_with_Children_Check_Requirements.pdf
+[Member Protection Declaration]: ../appendices/Member_Protection_Declaration.pdf
+[Working with Children Check Requirements]: ../appendices/Working_with_Children_Check_Requirements.pdf
 
 <!-- Attachments D -->
-[Complaints procedure]: appendices/Complaints_procedure.pdf
-[Mediation]: appendices/Mediation.pdf
-[Investigation procedure]: appendices/Investigation_procedure.pdf
-[Tribunal procedures]: appendices/Tribunal_procedures.pdf
+[Complaints procedure]: ../appendices/Complaints_procedure.pdf
+[Mediation]: ../appendices/Mediation.pdf
+[Investigation procedure]: ../appendices/Investigation_procedure.pdf
+[Tribunal procedures]: ../appendices/Tribunal_procedures.pdf
 
 <!-- Attachments E -->
-[Record of informal complaint]: appendices/Record_of_Informal_Complaint.pdf
-[Record of formal complaint]: appendices/Record_of_Formal_Complaint.pdf
-[Handling an allegation of child abuse]: appendices/Handling_an_allegation_of_child_abuse.pdf
-[Confidential record of child abuse allegation]: appendices/Confidential_record_of_child_abuse_allegation.pdf
+[Record of informal complaint]: ../appendices/Record_of_Informal_Complaint.pdf
+[Record of formal complaint]: ../appendices/Record_of_Formal_Complaint.pdf
+[Handling an allegation of child abuse]: ../appendices/Handling_an_allegation_of_child_abuse.pdf
+[Confidential record of child abuse allegation]: ../appendices/Confidential_record_of_child_abuse_allegation.pdf

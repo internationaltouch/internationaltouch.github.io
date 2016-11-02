@@ -366,5 +366,5 @@ Refer to the following related policies and documents:
 [FIT Referees Commission Policy]: /policy/referees/
 [FIT Secretary General]: mailto:secretary-general@internationaltouch.org
 
-[Appendix 1: FIT Volunteer Agreement Template]: appendices/Volunteer_Agreement_Template.pdf
-[Appendix 2: FIT Letter of Appointment Template]: appendices/Letter_of_Appointment_Template.pdf
+[Appendix 1: FIT Volunteer Agreement Template]: ../appendices/Volunteer_Agreement_Template.pdf
+[Appendix 2: FIT Letter of Appointment Template]: ../appendices/Letter_of_Appointment_Template.pdf
