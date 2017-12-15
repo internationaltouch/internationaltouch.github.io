@@ -4,9 +4,9 @@ title: Recognised Playing Divisions Policy
 approval_authority: Sport Development Officer
 responsible_officer: Event Commission Chair
 first_approved: 2016-10-25
-last_approved: null
-effective_date: null
-review_date: 2020-10-01
+last_amended: 2017-12-15
+effective_date: 2016-10-25
+review_date: 2023-08-01
 ---
 
 # FIT Recognised Playing Divisions Policy
@@ -62,7 +62,8 @@ Eligibility to compete in a recognised division is defined by the [FIT Player El
 -   Under 15
 -   Under 18
 -   Under 20
--   Over 30
+-   Over 27 (Womens only)
+-   Over 30 (Mens and Mixed only)
 -   Over 35
 -   Over 40
 -   Over 45
@@ -95,7 +96,7 @@ Eligibility to compete in a recognised division is defined by the [FIT Player El
 -   Mens Over 40 (M40)
 -   Mens Over 45 (M45)
 -   Mens Over 50 (M50)
--   Womens Over 30 (W30)
+-   Womens Over 27 (W27)
 -   Womens Over 35 (W35)
 -   Womens Over 40 (W40)
 -   Womens Over 45 (W45)
