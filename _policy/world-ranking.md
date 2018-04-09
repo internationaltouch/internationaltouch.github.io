@@ -96,6 +96,7 @@ The above factors are translated to variables with values determined according t
         -   1 × multiplier for first subdivision
         -   ⅖ × multiplier for second subdivision
         -   ⅕ × multiplier for subsequent subdivisions
+    -   3 × multiplier for Trans Tasman Test Series
     -   2 × multiplier for Tier 2 events
     -   1 × multiplier for Tier 3 events
 
