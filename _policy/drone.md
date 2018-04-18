@@ -3,9 +3,9 @@ title: Drone Policy
 
 approval_authority: President
 responsible_officer: Event Commission Chair
-first_approved: null
-last_approved: null
-effective_date: null
+first_approved: 2018-04-18
+last_approved: 2018-04-18
+effective_date: 2018-04-18
 review_date: 2020-06-30
 ---
 
