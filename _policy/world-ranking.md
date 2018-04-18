@@ -4,8 +4,8 @@ title: World Ranking Policy
 approval_authority: Sport Development Director
 responsible_officer: Event Commission Chair
 first_approved: 2016-10-25
-last_amended: null
-effective_date: null
+last_amended: 2018-04-18
+effective_date: 2015-04-28
 review_date: 2020-10-01
 ---
 
