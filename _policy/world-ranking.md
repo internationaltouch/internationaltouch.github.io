@@ -4,8 +4,8 @@ title: World Ranking Policy
 approval_authority: Sport Development Director
 responsible_officer: Event Commission Chair
 first_approved: 2016-10-25
-last_amended: null
-effective_date: null
+last_amended: 2018-04-18
+effective_date: 2015-04-28
 review_date: 2020-10-01
 ---
 
@@ -96,6 +96,7 @@ The above factors are translated to variables with values determined according t
         -   1 × multiplier for first subdivision
         -   ⅖ × multiplier for second subdivision
         -   ⅕ × multiplier for subsequent subdivisions
+    -   3 × multiplier for Trans Tasman Test Series
     -   2 × multiplier for Tier 2 events
     -   1 × multiplier for Tier 3 events
 
