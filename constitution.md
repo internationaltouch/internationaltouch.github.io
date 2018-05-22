@@ -464,9 +464,9 @@ and meeting date) prior to the Annual General Meeting. Unless a proposed notice 
 supported by all necessary documentation it may be rejected by the Board and not included as special
 business at the Annual General Meeting.
 
-### Special General Meetings
+## Special General Meetings
 
-#### Special General Meetings Convened by the Board
+### Special General Meetings Convened by the Board
 
 1.  The Board may, whenever it thinks fit, convene a Special General Meeting of the Federation and,
     where, but for this Rule more than 15 months would elapse between Annual General Meetings, shall
@@ -477,7 +477,7 @@ business at the Annual General Meeting.
 3.  The agenda for the Special General Meeting stating the business to be transacted at the meeting
     shall be given to Members at least one (1) month prior to Special General Meeting.
 
-#### Requisition of Special General Meetings by Members
+### Requisition of Special General Meetings by Members
 
 1.  The Secretary General shall convene a Special General Meeting within one month of receiving a
     requisition signed by six (6) Members (being NTA Members).
