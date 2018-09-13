@@ -44,7 +44,7 @@ review_date: 2019-12-01
     Federation Event status.
 4.  This eligibility policy applies to representative players registered in national teams. The
     policy does not apply to officials, coaches, referees, support staff or to representative
-    players under eighteen (18) years of age.
+    players in Under 15 and Under 18 age group teams.
 
 ## Definitions
 
