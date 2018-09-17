@@ -43,8 +43,7 @@ review_date: 2019-12-01
 3.  Member countries are encouraged to apply this policy to all events that are not afforded
     Federation Event status.
 4.  This eligibility policy applies to representative players registered in national teams. The
-    policy does not apply to officials, coaches, referees, support staff or to representative
-    players in Under 15 and Under 18 age group teams.
+    policy does not apply to officials, coaches, referees, or support staff.
 
 ## Definitions
 
@@ -134,10 +133,20 @@ review_date: 2019-12-01
     criteria listed in paragraph 4.1 to 4.3 above, for the different Member country.
 2.  An individual is entitled to multiple changes provided that the following provisions are adhered
     to:
-    1.  For an individual to be granted their first and/or second change of Representation, they
-        must satisfy clauses:
+    1.  For an individual aged 18 years or older at the time of their most recent previous
+        representation to be granted their first and/or second change of Representation, they must
+        satisfy clauses:
         -   4.1;
         -   4.2;
+        -   4.3.1;
+        -   4.3.2;
+        -   4.3.3; and
+        -   4.3.4;
+
+        For an individual aged under 18 years at the time of their most recent previous
+        representation to be granted their first and/or second change of Representation, they must
+        satisfy clauses:
+        -   4.1;
         -   4.3.1;
         -   4.3.2;
         -   4.3.3; and
