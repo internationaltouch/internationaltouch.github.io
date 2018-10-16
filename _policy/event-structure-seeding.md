@@ -89,6 +89,12 @@ permits subsequent cycles may be included on the proviso that all cycles are com
 ### Seeding
 
 -   Seeding is to be determined by a team's world ranking 90 days prior to the event commencing
+    -   When returning to an event the most recent gold, silver and bronze medalists, plus the
+        semi-finalist, will retain their finishing position and become the first, second, third and
+        fourth seeds, respectively, in place of their world ranking.
+    -   The remaining seeds are awarded based on world rankings where the nation has ranking points.
+    -   After all teams with world ranking points have been seeded remaining teams will be drawn in
+        a lottery.
 -   The [FIT World Ranking Policy] details the method used to determine world rankings
 
 ## Contact
