@@ -5,7 +5,7 @@ layout: legacy
 approval_authority: President
 responsible_officer: Event Commission Chair
 first_approved: 2010-09-14
-last_amended: 2018-04-14
+last_amended: 2018-10-25
 effective_date: 2018-04-18
 review_date: 2019-12-01
 ---
@@ -153,10 +153,10 @@ review_date: 2019-12-01
     reasons of immigration, marriage, employment, development of the sport and personal matters.
 4.  The following clearance procedures applies should an individual wish to change intended
     representation to a new Member country:
-    1.  An individual initially must apply for clearance by completing the Clearance Application /
-        Further Representation Form (see Appendix 1) and submit the form to the Federation Secretary
-        General, together with any supporting documentation not less than four (4) months prior to
-        the respective Federation Event.
+    1.  An individual initially must apply for clearance by completing the
+        [Clearance Application Form](https://goo.gl/forms/8CwQ26Sj2kc00F412) online, together with
+        any supporting documentation not less than four (4) months prior to the respective
+        Federation Event.
     2.  The Federation Secretary General will then seek written comment from the individual's
         current Member Country NTA followed by the individual's intended Member Country NTA.
     3.  Following consideration of the matter the Federation Secretary General will advise the
