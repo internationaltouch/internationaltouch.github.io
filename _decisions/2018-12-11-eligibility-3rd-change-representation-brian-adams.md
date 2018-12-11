@@ -10,7 +10,7 @@ The Federation of International Touch ("**FIT**") has reviewed your recent appli
 your playing eligibility from Cook Islands to New Zealand ahead of the FIT Touch World Cup 2019 and
 details the decision below.
 
-***1. Panel and Process***
+**1. Panel and Process**
 
 Under Clause 5.4 of the FIT Eligibility Policy (April 2018 Version) (the "**Policy**"), FIT referred
 this case from the FIT Secretary General to a three person panel comprising Gary Reynolds (FIT Event
@@ -18,7 +18,7 @@ Commission Chair), Cindy Nieuwoudt (South African Touch Association), and Michae
 Touch Association). Each Panel member had one vote and a decision would be taken based on a basic
 majority of votes.
 
-***2. Documents Reviewed***
+**2. Documents Reviewed**
 
 The Panel reviewed the following items:
 
@@ -44,7 +44,7 @@ The Panel reviewed the following items:
     of the FIT Touch World Cup 2011;
 -   A summary of your playing history.
 
-***3. Regulatory Considerations***
+**3. Regulatory Considerations**
 
 Your playing history is noted as follows:
 
@@ -67,7 +67,7 @@ The Panel noted that these requirements are cumulative and non-satisfaction of a
 renders your participation in the FIT Touch World Cup 2019 in breach of the Policy. Therefore, the
 Panel chose to assess them in reverse order as the most pertinent issue appeared to be Clause 5.2.2.
 
-***4. Factual Considerations***
+**4. Factual Considerations**
 
 Clause 5.2.2 requires that for a 3rd change of representation to occur the requesting player must:
 
@@ -114,7 +114,7 @@ transfer were allowed this would see you competing against your current member n
 Panel believed to be contrary to the stated aim of maintaining the integrity of international
 competition.
 
-***5. Decision and Appeal***
+**5. Decision and Appeal**
 
 On the basis of the above, the Panel unanimously decided that Clause 5.2.2 was not satisfied in this
 case and that the request for a 3rd change in representation should be declined. No assessment of
