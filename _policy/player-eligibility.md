@@ -209,3 +209,12 @@ review_date: 2019-12-01
     communication of same to Member countries through the FIT Digital Identity mailbox.
 3.  Member countries are responsible for the appropriate application of this policy.
 4.  The policy is due for review in December 2019.
+
+## Index of Decisions
+
+Any eligibility decisions that FIT publishes into the public domain will be indexed below.
+
+{% assign decisions = site.decisions | where_exp:"item", "item.tags contains 'eligibility'" %}
+{% for decision in decisions %}
+-   {{ decision.date | date_to_long_string }} -- [{{ decision.title }}]({{ decision.url }})
+{% endfor %}

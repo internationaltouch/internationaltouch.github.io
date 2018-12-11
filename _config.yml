@@ -27,6 +27,9 @@ collections:
   position_description:
     output: true
     permalink: /position/:path/
+  decisions:
+    output: true
+    permalink: /decisions/:path/
 
 defaults:
   - scope:
