@@ -123,9 +123,14 @@ Represented
 
     Normally, individuals must satisfy only one of the above requirements. However, where satisfying
     paragraph 4.1.1 results in an individual being able to Represent multiple Members at the same
-    time, the individual must additionally satisfy either paragraph 4.1.2 or 4.1.3 before their
-    first Representation for that Member, after which time this additional requirement is not
-    necessary.
+    time, the individual must additionally satisfy:
+    -   their Place of Birth is in the territory for which the Member is recognized by the
+        Federation (e.g. Ireland); or
+    -   4.1.2; or
+    -   4.1.3
+
+    before their first Representation for that Member, after which time this additional requirement
+    is not necessary.
 2.  In addition to the above requirement at paragraph 4.1, to be eligible to Represent a Member in a
     Federation Event an individual must not have Represented another Member in a Federation Event
     during the previous three (3) International Seasons (which includes the periods of time between
