@@ -16,6 +16,7 @@
   <style type="text/css">
     li { padding-left: 0.3em; }
     ol > li > ol { list-style-type: lower-alpha; }
+    ol > li > p { margin-bottom: 0; }
     h2 + ol > li > ol { list-style-type: none; }
     dl > dt:before { clear: both; }
     dl > dt { font-weight: bold; float: left; }
@@ -46,6 +47,13 @@
     }
     ol li ol li ul li {
       list-style-type: disc;
+    }
+    ol li ol li ol li {
+      list-style: none;
+    }
+    ol li ol li ol li::before {
+      width: 2em;
+      margin-left: -4em;
     }
   </style>
   <style type="text/css" media="print">
