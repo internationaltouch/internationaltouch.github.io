@@ -4,8 +4,8 @@ title: Recognised Playing Divisions Policy
 approval_authority: Sport Development Officer
 responsible_officer: Event Commission Chair
 first_approved: 2016-10-25
-last_amended: 2017-12-15
-effective_date: 2016-10-25
+last_amended: MUST BE UPDATED
+effective_date: 2020-04-01
 review_date: 2023-08-01
 ---
 
@@ -59,7 +59,6 @@ Eligibility to compete in a recognised division is defined by the [FIT Player El
 ### Recognised age groups
 
 -   Open
--   Under 15
 -   Under 18
 -   Under 20
 -   Over 27 (Womens only)
@@ -79,13 +78,10 @@ Eligibility to compete in a recognised division is defined by the [FIT Player El
 
 #### Youth divisions
 
--   Boys Under 15 (B15)
 -   Boys Under 18 (B18)
 -   Mens Under 20 (M20)
--   Girls Under 15 (G15)
 -   Girls Under 18 (G18)
 -   Womens Under 20 (W20)
--   Mixed Under 15 (X15)
 -   Mixed Under 18 (X18)
 -   Mixed Under 20 (X20)
 
