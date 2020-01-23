@@ -417,10 +417,11 @@ Where the Board is advised or considers that a Member has allegedly:
     Regulations or any resolution or determination of the Board or any duly authorised committee; or
 2.  Acted in a manner unbecoming of a Member or prejudicial to the objects and interests of the
     Federation and/or Touch; or
-3.  Brought the Federation or Touch into disrepute; the Board may commence or cause to be commenced
-    disciplinary proceedings ("proceedings") against that Member, and that Member will be subject
-    to, and submits unreservedly to the jurisdiction, procedures, penalties and appeal mechanisms of
-    the Federation set out in the Regulations.
+3.  Brought the Federation or Touch into disrepute;
+
+the Board may commence or cause to be commenced disciplinary proceedings ("proceedings") against
+that Member, and that Member will be subject to, and submits unreservedly to the jurisdiction,
+procedures, penalties and appeal mechanisms of the Federation set out in the Regulations.
 
 ## Annual General Meeting
 
