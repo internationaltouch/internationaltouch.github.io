@@ -119,6 +119,7 @@ Represented
             South Africa); or
         2.  the territory for which the Member is recognized by the Federation, in the event that
             the Country contains multiple Members (e.g. the United Kingdom)
+
         for the three years preceding the relevant Federation Event.
 
     Normally, individuals must satisfy only one of the above requirements. However, where satisfying
