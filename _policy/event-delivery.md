@@ -124,7 +124,6 @@ Refer to the following related policies and documents:
 -   [FIT Event Historical Register]
 -   [FIT Member Protection Policy]
 -   [FIT Volunteer Policy]
--   [FIT Strategic Plan]
 
 ## Appendices
 
@@ -143,6 +142,5 @@ Nil
 [FIT Event Classification Policy]: /policy/event-classification/
 [FIT Member Protection Policy]: /policy/member-protection/
 [FIT Sport Development Director]: mailto:sportdevelopment@internationaltouch.org
-[FIT Strategic Plan]: https://www.internationaltouch.org/strategic-plan/
 [FIT Volunteer Policy]: /policy/volunteer/
 [the Federation website]: https://www.internationaltouch.org/
