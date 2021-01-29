@@ -55,9 +55,9 @@ FIT recognises the critical role that FIT endorsed events has in promoting and d
     1.  Ensure that FIT endorsed events are delivered to the same high, consistent level, worldwide.
     2.  Coordinate with members their participation in FIT endorsed events.
     3.  Establish event budgets in consultation with the event hosting authoritity and the FIT Finance Director.
-    4.  Identify and recruit an suitably skilled workforce to ensure smooth conduct of FIT endorsed event.
+    4.  Identify and recruit a suitably skilled workforce to ensure smooth conduct of FIT endorsed event.
     5.  Establish commercial partnerships in order to enhance the global reputation of the sport.
-    6.  To make recommendations to the FIT Board in relation to any potential changes and/or additions to the above purposes.
+    6.  Make recommendations to the FIT Board in relation to any potential changes and/or additions to the above purposes.
 
 2.  Event requests and proposals
     1.  All Event requests and proposals (including requests for the sanction of FIT endorsed Test matches and FIT Event Classification) are to be submitted to the Event Delivery team on the [FIT Event Request Form] for endorsement.
