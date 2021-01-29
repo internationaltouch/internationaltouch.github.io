@@ -57,7 +57,10 @@ FIT recognises the critical role that FIT endorsed events has in promoting and d
     3.  Establish event budgets in consultation with the event hosting authoritity and the FIT Finance Director.
     4.  Identify and recruit a suitably skilled workforce to ensure smooth conduct of FIT endorsed event.
     5.  Establish commercial partnerships in order to enhance the global reputation of the sport.
-    6.  Make recommendations to the FIT Board in relation to any potential changes and/or additions to the above purposes.
+    6.  Enforcement of the [FIT Player Eligibility Policy].
+    7.  Management of FIT referees involvement at FIT endorsed events.
+    8.  Management of FIT coaching services at FIT endorsed events.
+    9.  Make recommendations to the FIT Board in relation to any potential changes and/or additions to the above purposes.
 
 2.  Event requests and proposals
     1.  All Event requests and proposals (including requests for the sanction of FIT endorsed Test matches and FIT Event Classification) are to be submitted to the Event Delivery team on the [FIT Event Request Form] for endorsement.
@@ -123,6 +126,7 @@ Refer to the following related policies and documents:
 -   [FIT Event Request Form]
 -   [FIT Event Historical Register]
 -   [FIT Member Protection Policy]
+-   [FIT Player Eligibility Policy]
 -   [FIT Volunteer Policy]
 
 ## Appendices
@@ -143,4 +147,5 @@ Nil
 [FIT Member Protection Policy]: /policy/member-protection/
 [FIT Sport Development Director]: mailto:sportdevelopment@internationaltouch.org
 [FIT Volunteer Policy]: /policy/volunteer/
+[FIT Player Eligibility Policy]: /policy/player-eligibility/
 [the Federation website]: https://www.internationaltouch.org/
