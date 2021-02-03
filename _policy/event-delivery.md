@@ -4,8 +4,8 @@ title: Event Delivery Policy
 approval_authority: FIT Board, signed off by President
 responsible_officer: Event Director
 first_approved: 2016-06-06
-last_amended: 2021-01-29
-effective_date: 2021-02-01
+last_amended: 2021-02-03
+effective_date: 2021-02-04
 review_date: 2024-01-01
 ---
 
@@ -54,7 +54,7 @@ FIT recognises the critical role that FIT endorsed events has in promoting and d
 1.  Purpose of the FIT Event Delivery team is to:
     1.  Ensure that FIT endorsed events are delivered to the same high, consistent level, worldwide.
     2.  Coordinate with members their participation in FIT endorsed events.
-    3.  Establish event budgets in consultation with the event hosting authoritity and the FIT Finance Director.
+    3.  Establish event budgets in consultation with the event hosting authority and the FIT Finance Director.
     4.  Identify and recruit a suitably skilled workforce to ensure smooth conduct of FIT endorsed event.
     5.  Establish commercial partnerships in order to enhance the global reputation of the sport.
     6.  Enforcement of the [FIT Player Eligibility Policy].
@@ -67,8 +67,7 @@ FIT recognises the critical role that FIT endorsed events has in promoting and d
     2.  Event endorsement lead times are detailed in the [FIT Event Classification Policy].
 
 3.  FIT event calendar
-    1.  The FIT Event Delivery team will maintain an Event Calendar of International events.
-    2.  The Event Delivery team will maintain and publish the [Event Calendar] on [the Federation website].
+    1.  The Event Delivery team will maintain and publish the [Event Calendar] on [the Federation website].
 
 4.  FIT event historical information and register
     1.  The FIT Event Delivery team will manage all historical FIT event information by maintaining an [FIT Event Historical Register] that records the details and results of all International events.
@@ -76,8 +75,8 @@ FIT recognises the critical role that FIT endorsed events has in promoting and d
 5.  Appointments to the Event Delivery team will be made by the FIT Board
     1.  The roles and relevant skills being sought for the Event Delivery team will be as determined by the Event Director.
     2.  Each position will be advertised separately.
-    3.  Applications must submit a cover letter addressing the key selection critera and a resume by email.
-    4.  Applicants will be reviewed by an independant panel, with recommendations to be approved by the FIT Board.
+    3.  Applications must submit a cover letter addressing the key selection criteria and a resume by email.
+    4.  Applicants will be reviewed by an independent panel, with recommendations to be approved by the FIT Board.
     5.  Appointees will report to the Event Director or their delegate, and may resign their position at any time.
     6.  The Event Director may change the size or composition of the team with the approval of the FIT Board.
 
