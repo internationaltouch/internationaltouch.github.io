@@ -4,8 +4,8 @@ title: Event Delivery Policy
 approval_authority: FIT Board, signed off by President
 responsible_officer: Event Director
 first_approved: 2016-06-06
-last_amended: 2021-02-03
-effective_date: 2021-02-04
+last_amended: 2021-02-05
+effective_date: 2021-02-05
 review_date: 2024-01-01
 ---
 
@@ -104,7 +104,7 @@ FIT recognises the critical role that FIT endorsed events has in promoting and d
 9. Financial Operations of the Event Delivery team
     1.  Membership of the Event Delivery team is on a volunteer basis.
     2.  The Event Delivery team is responsible for managing it's program budget, ensuring that activities do not run at a loss.
-    3.  Expenses must be approved by the Event Director and disbursed by the Finance Director.
+    3.  Expenses must be approved by the Event Director and Finance Director.
 
 10. Periodic review of the Event Delivery team
     1.  The roles and relevant skills required of the Event Delivery team will be reviewed biennially by the Event Director and another member of the FIT Board.
