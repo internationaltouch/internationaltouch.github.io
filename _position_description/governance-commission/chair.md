@@ -2,10 +2,10 @@
 title: Governance Commission Chair
 approval_authority: President
 responsible_officer: Secretary General
-first_approved: 
-last_amended: 
-effective_date: 
-review_date: 
+first_approved: 2021-02-23
+last_amended: 2021-02-23
+effective_date: 2021-02-23
+review_date: 2024-02-23
 ---
 
 # Governance Commission Chair
@@ -24,7 +24,7 @@ The FIT Constitution states the composition of the Board shall comprise of elect
 
 The Governance Commission Chair plays a lead role in supporting the ongoing development of Touch globally through a commitment to good governance and risk management.
 
-The position works closely with FIT administration/operations and National Touch Organisations (NTOs) to facilitate good governance practices by providing expert advice, developing FIT endorsed resources, leading project-specific working groups considering key governance matters, and facilitating networking opportunities to share ideas and experiences.  
+The position works closely with FIT administration/operations and National Touch Organisations (NTOs) to facilitate good governance practices by providing expert advice, developing FIT endorsed resources, leading project-specific working groups considering key governance matters, and facilitating networking opportunities to share ideas and experiences.
 
 The Governance Commission consists of the Chair and a maximum of 10 members (2 maximum per region), representing the FIT regional structure and a commitment to diversity wherever possible. The Commission may also invite professional or expert advisors to join the Commission from time to time to assist with items that require specific technical or subject matter expertise.
 

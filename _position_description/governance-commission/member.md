@@ -3,10 +3,10 @@ title: Governance Commission Member
 
 approval_authority: President
 responsible_officer: Secretary General
-first_approved: 
-last_amended: 
-effective_date: 
-review_date: 
+first_approved: 2021-02-23
+last_amended: 2021-02-23
+effective_date: 2021-02-23
+review_date: 2024-02-23
 ---
 
 # Governance Commission Member
@@ -115,7 +115,7 @@ Other Requirements:
 
 -   Pre-appointment screening, including criminal history and discipline history checks, and where appropriate, working with children checks, may be undertaken on persons recommended for appointment.
 -   In accordance with the [FIT Member Protection Policy] persons recommended for appointment will be required to complete the Member Protection Declaration.
--   In accordance with the [FIT Volunteer Policy] persons recommended for appointment will be required to complete the Volunteer Agreement. 
+-   In accordance with the [FIT Volunteer Policy] persons recommended for appointment will be required to complete the Volunteer Agreement.
 -   In accordance with the [FIT Conflict of Interest Policy] persons recommended for appointment will be required to complete the Declaration of Private Interests.
 
 ## Contact Person
