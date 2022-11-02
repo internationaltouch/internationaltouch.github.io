@@ -21,11 +21,10 @@ permalink: /constitution/
 * toc
 {:toc}
 
-#### History
+### History
 {:.no_toc}
 
-This FIT Constitution was approved by the Members at the Special General Meeting conducted on 19
-August 2011.
+This Constitution was approved by the Members at the Special General Meeting conducted on 6th November 2021.
 
 ## Name of Association
 
