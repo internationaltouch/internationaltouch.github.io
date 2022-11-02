@@ -920,3 +920,63 @@ The Company recognises the CAS, which will have jurisdiction to hear and determi
 # Amendment of Constitution
 
 No addition, alteration or amendment shall be made to this Constitution unless the same has been approved by Special Resolution and in accordance with the Corporations Act.
+
+# Schedule 1
+{:.no_toc}
+
+List of Members and their class of membership as at the date of incorporation of the Company.
+
+## Full Member
+{:.no_toc}
+
+-   Australia
+-   Fiji
+-   New Zealand
+-   Papua New Guinea
+-   Canada
+-   USA
+-   Cook Islands
+-   Japan
+-   Samoa
+-   Ireland
+-   England
+-   South Africa
+-   Singapore
+-   Italy
+-   Malaysia
+-   Scotland
+-   Wales
+-   France
+-   India
+-   Germany
+-   Hong Kong
+-   Jersey
+-   Spain
+-   Belgium
+-   Guernsey
+-   Switzerland
+-   Austria
+-   China
+-   Chinese Taipei
+-   Luxembourg
+-   Netherlands
+-   Portugal
+-   Chile
+-   Czech Republic
+-   United Arab Emirates
+-   Philippines
+-   Qatar
+-   Sweden
+
+## Observer Member
+{:.no_toc}
+
+-   Bulgaria
+-   Kiribati
+-   Niue
+-   Solomon Islands
+-   Sri Lanka
+-   Tokelau
+-   Tonga
+-   Thailand
+-   Estonia
