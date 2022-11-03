@@ -1,0 +1,58 @@
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+
+  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.3/gh-fork-ribbon.min.css" />
+  <style type="text/css">
+    .github-fork-ribbon:before { background-color: steelblue; }
+
+    h1, h2, h3, h4 { font-weight: 500; }
+    h2 { border-bottom: 1px solid; padding-bottom: 0.25em; }
+    li { padding-left: 0.3em; }
+    ol > li > ol { list-style-type: lower-roman; }
+    ol > li > p { margin-bottom: 0; }
+    h2 + ol > li > ol { list-style-type: none; }
+    dl > dt:before { clear: both; }
+    dl > dt { font-weight: bold; float: left; }
+    dl > dt + dt:before { content: " & "; font-weight: normal; }
+    dl > dt:after { content: " "; }
+    dl > dd { padding-bottom: 0.5em; }
+    dl.authorisation > dt { min-width: 200px; }
+    dl.authorisation > dd { padding-bottom: 0.2em; }
+    h1 { counter-reset: h2counter; page-break-before: always; }
+    h2:before { counter-increment: h2counter; content: counter(h2counter) "."; margin-right: 0.5em; }
+    h2 { counter-reset: h3counter; }
+    h2.no_toc:before { counter-increment: none; content: none; }
+    h3 { counter-reset: h4counter; }
+    h3:before { counter-increment: h3counter; content: counter(h2counter) "." counter(h3counter) "."; margin-right: 0.75em; }
+    h3.no_toc:before { counter-increment: none; content: none; }
+    h4:before { counter-increment: h4counter; content: counter(h2counter) "." counter(h3counter) "." counter(h4counter) "."; margin-right: 0.4em; }
+
+    ol { list-style-type: lower-alpha; margin-left: 1.5em; }
+    ol li ol li ul li { list-style-type: disc; }
+    ol li ol li ol li { list-style: none; }
+    ol li ol li ol li::before { width: 2em; margin-left: -4em; }
+    
+    /* TOC numbering */
+    ul#markdown-toc { counter-reset: toc; list-style-type: none; margin: 0; padding: 0; break-inside: unset; }
+    ul#markdown-toc ul { counter-reset: toc; margin-left: 0; }
+    #markdown-toc li { display: table; counter-increment: toc; margin-bottom: 0.6em; font-weight: 500; break-after: avoid-page; }
+    #markdown-toc li:before { content: counters(toc, ".") ". "; display: table-cell; padding-right: 0.6em; }
+    #markdown-toc li li { margin: 0; font-weight: 400; margin-top: 0.2em; }
+    #markdown-toc li li:before { content: counters(toc, ".") ". "; }
+
+    /* Columns for Schedules */
+    h1.schedule + * ~ h2 + ul { list-style-type: number; columns: 3; }
+  </style>
+  <style type="text/css" media="print">
+    header, footer { display: none; }
+  </style>
+
+</head>

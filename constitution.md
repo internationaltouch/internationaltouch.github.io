@@ -1,12 +1,12 @@
 ---
 title: Constitution
-layout: document
+layout: constitution
 
 approval_authority: Members
 responsible_officer: Secretary General
 first_approved: null
-last_amended: 2011-08-19
-effective_date: 2011-08-19
+last_amended: 2021-11-06
+effective_date: 2021-11-06
 review_date: null
 
 permalink: /constitution/
@@ -21,1113 +21,961 @@ permalink: /constitution/
 * toc
 {:toc}
 
-#### History
+### History
 {:.no_toc}
 
-This FIT Constitution was approved by the Members at the Special General Meeting conducted on 19
-August 2011.
+This Constitution was approved by the Members at the Special General Meeting conducted on 6th November 2021.
 
 ## Name of Association
 
-The name of the association is Federation of International Touch Incorporated ("Federation").
+The name of the Company is the Federation of International Touch Limited (FIT)
 
-## Headquarters
+## Definitions and Interpretations
 
-1.  The Headquarters of the Federation shall be as determined by the Federation from time to time or
-    in the event of no such determination, shall be the address of the Secretary General.
-2.  English shall be the official language of the Federation and all money transactions are
-    expressed in Australian dollars.
+### Definitions
 
-## Objects of Federation
+In this Constitution, unless the context requires otherwise:
 
-The Federation is the peak body for the administration of Touch throughout the world. The objects
-for which the Federation is established and maintained are to:
+Annual General Meeting
+:   (AGM) means the Annual General Meeting of the Company required to be held by the Company in each calendar year under section 250N(2) of the Corporations Act.
 
-1.  Create a single uniform entity through and by which Touch can be conducted, promoted and
-    administered;
-2.  Provide for the encouragement, conduct, promotion, control and administration of Touch
-    throughout the world;
-3.  Affiliate and otherwise liaise with other International sporting organizations and such other
-    bodies as may be desirable, in the pursuit of these Objects;
-4.  Encourage, conduct, promote, advance and control Touch, in any form;
-5.  Control, manage and conduct Touch competitions at an International level;
-6.  Conduct or commission research and development for improvements in Touch and Touch equipment;
-7.  Use and protect the Intellectual Property;
-8.  Promote the importance of Touch standards, techniques, awards and education to Members and other
-    bodies involved in or related to Touch;
-9.  Strive for and maintain government, commercial and public recognition of the Federation as the
-    authority on and for Touch throughout the world;
-10. Promulgate, and secure uniformity in, such rules and standards as may be necessary for the
-    management and control of Touch, Touch competitions and related activities, including but not
-    limited to playing rules and coaching standards;
-11. Pursue through itself or others such commercial arrangements, including sponsorship and
-    marketing opportunities, as are appropriate to further the objects of the Federation;
-12. Maintain and extend the operations and activities of the Federation to all countries throughout
-    the world;
-13. Further develop the Federation and Touch into an organised institution and having regard to
-    these objects, to foster, regulate, organise, control, conduct and manage tournaments,
-    competitions, displays and other activities and to issue certificates and award trophies;
-14. Ensure that environmental considerations are taken into account in all Touch and related
-    activities conducted by the Federation;
-15. Promote the health and safety of Members;
-16. Act as final internal arbiter on all matters pertaining to the conduct of Touch throughout the
-    world, including disciplinary matters;
-17. Establish and conduct educational programs for officials in the implementation and
-    interpretation of Touch playing rules and standards;
-18. Formulate and implement appropriate policies, including policies in relation to equal
-    opportunity, equity, drugs in sport, health, safety, junior and senior programs, infectious
-    diseases and such other matters as arise from time to time as issues to be addressed in Touch;
-19. Represent the interests of its Members and of Touch generally in any appropriate forum;
-20. Have regard to the public interest in its operations;
-21. Encourage Members to realise their potential and athletic abilities;
-22. Encourage and promote competition consistent with the principles of fair play and free from
-    performance-enhancing drugs;
-23. Seek and obtain improved facilities for the enjoyment of Touch; and
-24. Undertake and or do all such things or activities which are necessary, incidental or conducive
-    to the advancement of these objects.
+Appointed
+:   means a Director appointed under **clause 15**.
 
-## Powers of the Federation
+Arrears
+:   means monies owing to FIT, including members annual subscription which has not been received according to the prescribed time as determined by the Board.
 
-Solely for furthering the objects set out above, and in addition to the rights, powers and
-privileges provided under the Act, the Federation has all the powers and capacity of a company under
-the *Corporations Act 2009 (Commonwealth)*.
+Board
+:   means the body consisting of the Directors under **clause 15**.
 
-## Application of income
+Committee
+:   means a committee established by the Board under **clause 20**.
 
-1.  The income and property of the Federation shall be applied solely towards the promotion of the
-    Objects.
-2.  Except as prescribed in this Constitution no remuneration or other benefit shall be paid or
-    given by the Federation to any Member.
-3.  Nothing contained in **Rules 5(a) or (b)** shall prevent payment in good faith of or to any
-    Member for:
-    1.  Any services actually rendered to the Federation whether as an employee or otherwise;
-    2.  Goods supplied to the Federation in the ordinary and usual course of operation;
-    3.  Interest on money borrowed from any Member;
-    4.  Rent for premises demised or let by any Member to the Federation;
-    5.  Any out-of-pocket expenses incurred by the Member on behalf of the Federation;
-    6.  Or any other reason; provided that any such payment shall not exceed the amount ordinarily
-        payable between ordinary commercial parties dealing at arm's length in a similar
-        transaction.
+Company
+:   means the company to which this Constitution relates.
 
-## Addition alteration or amendment
+Company Secretary or Secretary
+:   means a person appointed as a company secretary of the Company by the Board under **clause 19**.
 
-1.  No addition, alteration or amendment shall be made to this Constitution unless a Special
-    Resolution has approved the same.
-2.  No addition, alteration or amendment to this Constitution will take effect until filed in
-    accordance with the Act.
+Constitution
+:   means this Constitution as amended from time to time, and a reference to a particular clause is a reference to a clause of this Constitution.
 
-## Liability of Members
+Corporations Act
+:   means the *Corporations Act 2001* (Commonwealth of Australia) as modified and amended from time to time and includes any regulations made under that Act and any exemption or modification to that Act applying to the Company.
 
-The liability of the Members of the Federation is limited.
+Country
+:   means an independent state recognised by the international community.
 
-## Members' Contributions
+Delegate
+:   means the person(s) appointed from time to time to act for and on behalf of a member and represent that Member at General Meetings.
 
-Every Member of the Federation undertakes to contribute to the assets of the Federation in the event
-of it being wound up while a Member, or within one year after ceasing to be a Member for payment of
-the debts and liabilities of the Federation contracted before the time at which he ceases to be a
-Member, and the costs, charges and expenses of winding up and for an adjustment of the rights of
-contributors among themselves, such amount as may be required not exceeding $1.00.
+Disqualifying Position
+:   means to hold a position at the National Board level or be an employee of a Member or FIT which disqualifies the individual from being eligible to hold a Director position.
 
-## Distribution of property on winding up
+Director
+:   means a director of the Company and includes Elected Directors and Appointed Directors.
 
-If upon winding up or dissolution of the Federation there remains after satisfaction of all its
-debts and liabilities any assets or property, the same shall not be paid to or distributed amongst
-the Members but shall be given or transferred to somebody or bodies having objects similar to the
-Objects and which prohibits the distribution of its or their income and property among its or their
-Members to an extent at least as great as is imposed on the Federation by this Constitution and
-which is also not carried on for profit and which is similarly exempt from income tax. Such body or
-bodies to be determined by the Members of the Federation at or before the time of dissolution, and
-in default thereof by such judge of a Supreme Court as may have or acquire jurisdiction in the
-matter.
+Elected Director
+:   means a Director elected under **clause 15**.
 
-## Accounts
+Federation of International Touch Limited
+:   means the International Federation responsible for Touch in all its forms.
 
-True accounts shall be kept of the sums of money received and expended by the Federation and the
-manner in respect of which such receipt and expenditure takes place and of the property, assets and
-liabilities of the Federation and, subject to any reasonable restrictions as to time and manner of
-inspecting the same that may be imposed in accordance with the Constitution for the time being,
-shall be open to the inspection of the Members. Once at least in every year the accounts of the
-Federation shall be examined by one or more properly qualified auditor or auditors, who shall report
-to the Members in accordance with generally accepted accounting principles and/or practices and/or
-the provisions of the Act.
+Financial year
+:   means year starting 1 January and ending 31 December of each year.
 
-## National Touch Associations
+General Meeting
+:   means a general meeting of Members and includes the Annual General Meeting.
 
-### National Touch Associations
+Individual Member
+:   means a natural person admitted to the Company as an Individual Member under **clause 6.1.3** and a registered or licensed financial member of the Company and includes Participants.
 
-1.  The Federation shall consist of such National Touch Associations as are recognised and admitted
-    by the Federation as a Member to conduct Touch in a Country;
-2.  Only one National Touch Association from any one Country in the world may become and remain a
-    Member.
+Intellectual Property
+:   means all rights subsisting in copyright, business names, names, trademarks (or signs), logos, designs, equipment including computer software, images (including photographs, videos or films) or service marks relating to the Company, or developed, conducted, promoted or administered by the Company.
 
-### Recognition of National Touch Association
+Member
+:   means a member of the Company for the time being under **clause 6**.
 
-A National Touch Association shall administer Touch in its Country on behalf of its constituents,
-subject to the control of the Federation and in accordance with the Objects. Each National Touch
-Association shall be named according to the Country in which it is located.
+National Touch Organisation or NTO
+:   means the entity responsible for organising and supervising Touch in all of its forms in its Country.
 
-### Compliance of National Touch Association
+Objects
+:   mean the objects of the Company in **clause 3**.
 
-Each National Touch Association shall:
+Official Position
+:   means, in connection with anybody corporate or organisation, a person who:
+1.  holds a position, whether elected or appointed, director or equivalent of that body corporate or organisation; or
+2.  has, directly or indirectly, material ownership or financial interest in that body corporate or organisation.
 
-1.  Be subject to the control and direction of the Federation;
-2.  Appoint a Delegate annually to represent it at General Meetings;
-3.  Adopt the Objects or adopt rules which reflect, and which are to the extent permitted or
-    required by the legislation applicable to each National Touch Association, in conformity with
-    this Constitution;
-4.  Support the Federation in the encouragement and promotion of the Objects; and
-5.  By adopting the Objects, abide by this Constitution.
+Ordinary Resolution
+:   means a resolution passed at a meeting of Members by a simple majority
 
-### Operation of Constitution
+Participant
+:   means a person who participates, including as a registered volunteer, official, coach, player or referee, in any Touch activity organised, controlled or sanctioned by FIT or an NTO.
 
-The Federation and each National Touch Association agree:
+Regional Federation of Touch
+:   means an entity formed by FIT Members within its region to manage the operations of that region linked to the development of Touch and subject to the FIT Constitution and an agreement signed between the Regional Federation and FIT
 
-1.  That they are bound by this Constitution and that this Constitution operates to create
-    uniformity in the way in which the Objects and Touch are to be conducted, promoted and
-    administered;
-2.  That should a National Touch Association be having administrative, operational or financial
-    difficulties, including but not limited to where a National Touch Association:
-    1.  Takes or has taken or has instituted against it any action or proceeding, whether voluntary
-        or compulsory, having as its object the winding up of the National Touch Association; or
-    2.  Enters into a composition or arrangement with its creditors, other than a voluntary winding
-        up by members for the purpose of reconstruction or amalgamation; or
-    3.  A mortgagee or other creditor takes possession of any of its assets; the Federation may act
-        to assist that National Touch Association in whatever manner it considers appropriate,
-        including, but not limited to the appointment of an administrator; and
-3.  Where the Board considers or is advised that a National Touch Association has allegedly:
-    1.  Breached, failed, refused or neglected to comply with a provision of this Constitution, the
-        Regulations, or any resolution or determination of the Board; or
-    2.  Acted in a manner prejudicial to the objects and interests of the Federation and/or Touch;
-        or
-    3.  Brought the Federation itself, or any other National Touch Association into disrepute; the
-        Board may, after allowing the National Touch Association the opportunity to explain,
-        adjudicate and if necessary penalise that National Touch Association for such conduct or
-        omission with such penalty as it thinks appropriate.
+Region
+:   means a geographical area that has common natural or artificial features (language, government, religion, borders, culture).
 
-## National Touch Association Constitutions and Rules
+Register
+:   means the register of Members and associated database kept as required by the Act.
 
-### Constitution
+Regulations
+:   mean any Regulations made by the Board under **clause 21**.
 
-The constituent documents of each National Touch Association will clearly reflect the Objects and
-shall acknowledge that the National Touch Association is subject to the control and direction of the
-Federation, and shall conform with such incidental variations as are necessary having regard to the
-legislation applicable to each National Touch Association.
+Special Resolution
+:   means a resolution that must be passed by a majority of at least 75% of votes exercisable by Members entitled to vote at the relevant General Meeting per this Constitution and the Corporations Act.
 
-### Power of Veto
+Telecommunications Meeting
+:   means a General Meeting or Board meeting held by telephone, video, or any other technology (or any combination of these technologies), allowing participants to communicate with other participants.
 
-Each National Touch Association shall provide to the Federation a copy of its constituent documents
-and all amendments to these documents. Each National Touch Association acknowledges and agrees that
-the Federation has power to veto any provision in a National Touch Association constitution which,
-in the Board's opinion, is contrary to the Objects, the Constitution or the Regulations.
+Touch, Touch Rugby or Touch Football
+:   means the sport or game played in all its forms under the rules determined or adopted from time to time by FIT and referred to in this document as "Touch".
 
-### Amendments to National Touch Association Constitutions
+Voting Member
+:   means, in relation to a General Meeting, those Members present and entitled to vote through their Delegate.
 
-Each National Touch Association will take all steps to ensure its constituent documents and rules
-are in conformity with this Constitution and will ensure its documents are amended in conformity
-with future amendments made to this Constitution, subject to any prohibition in any relevant
-legislation applicable to each National Touch Association.
+World Cup
+:   means the global competition conducted by FIT and played between representative teams of the Members.
 
-### Register of Participants
+### General
 
-Each National Touch Association shall maintain, in a form acceptable to the Federation, a register
-of all Participants in its Country or otherwise represented by it. Each National Touch Association
-shall upon request from the Federation provide a copy of the register at a time and in a form
-acceptable to the Federation, and shall whenever possible provide regular updates of the register to
-the Federation.
+1.  In this Constitution
+    1.  expressions referring to "writing" shall unless the contrary intention appears, be construed as including references to printing, lithography, photography and other modes of representing or reproducing words in a visible form,  including messages sent electronically;
+    2.  a reference to a function includes a reference to a power, authority and duty;
+    3.  a reference to the exercise of a function includes, where the function is a power, authority or duty, a reference to the exercise of the power or authority of the performance of the duty;
+    4.  a reference to a Member present at a General Meeting means the Member present in person or by proxy or delegate;
+    5.  a reference to a document or instrument includes any amendments made to it from time to time and, unless the contrary intention appears, includes a replacement;
+    6.  words importing any gender include all other genders;
+    7.  the word person includes a firm, a body corporate, a partnership, a joint venture, an unincorporated body or association or an authority;
+    8.  a reference to an organisation includes a reference to its successors;
+    9.  words importing the singular include the plural and vice versa;
+    10. a reference to a law includes regulations and instruments made under it;
+    11. a reference to a law or a provision of a law includes amendments, re-enactments or replacements of that law or the provision, whether by a State or the Commonwealth or otherwise;
+    12. the words include, includes, including and for example are not to be interpreted as words of limitation;
+    13. where, by a provision of this Constitution, a document including a notice is required to be signed, that requirement may be satisfied in relation to electronic communication of the document in any manner permitted by law or by any State or Commonwealth law relating to electronic transmissions or in any other manner approved by the Board; and
+2.  If any provision of this Constitution or any phrase contained in it is invalid or unenforceable, the phrase or provision is to be read down if possible, so as to be valid and unenforceable, and otherwise shall be severed to the extent of the invalidity or unenforceability, without affecting the remaining provisions of this Constitution.
+3.  The specification of the Objects in **clause 3** are not in any particular order and are not to be construed so as to lead to the construction that any object is more important than any other object nor than any object which is specified in detail is more important than any object which has not been specified in detail, and no particular object will be limited by reference to any other and the rule of construction known as ejusdem generis rule shall not apply.
 
-## Members
+### Corporations Act
+
+1.  In this Constitution, unless the context requires otherwise, an expression has, in a provision of this Constitution that deals with a matter dealt with by a particular provision of the Corporations Act, the same meaning as in that provision of the Corporations Act.
+2.  The provisions of the Corporations Act that apply as replaceable rules are displaced by this Constitution and accordingly do not apply to the Company.
+
+### Headings
+
+Headings are inserted for convenience and do not affect the interpretation of this Constitution.
+
+## Objects
+
+The objects for which FIT is established and maintained are to:
+
+1.  Promote, foster, improve, extend and govern Touch through coordinating, encouraging, assisting and supporting members of FIT.
+2.  Regulate, promote, organise and conduct Touch competitions at an international level.
+3.  Establish and secure uniformity in rules and standards for the management and control of Touch, Touch competitions and related activities, including but not limited to playing rules and minimum coaching and referee standards.
+4.  Act as an arbitrator and appeal body for members and participants of Touch throughout the world, including disciplinary matters.
+5.  Seek to prevent within Touch discrimination of any kind against a country or against a private person or groups of people including on account of age, gender, marital status, maternity status, disability, race (including colour, nationality, ethnic or national origin), religion or belief, sex or sexual orientation or any other reason.
+6.  Preserve Touch's integrity, including by adopting rules implementing the World Anti-Doping Code and other appropriate codes of conduct and regulations, and ensuring that such rules, codes and regulations are enforced at all Touch events sanctioned by the Company.
+7.  Represent the interests of its Members and Touch generally in any appropriate forum, including affiliation to international sporting organisations, government, commercial and public recognition of FIT as the authority on and for Touch throughout the world.
+
+## Powers
+
+Solely for furthering the Objects under **clause 3**, the Company has the legal capacity and powers of a company limited by guarantee as set out under section 124 of the Corporations Act.
+
+## Income and Property of Company
+
+### Sole Purpose
+
+The income and property of the Company will only be applied towards the promotion of the Objects under **clause 3**.
+
+### Payments to Members
+
+No income or property will be paid or transferred directly or indirectly to any Member except for payments to a Member:
+
+1.  in return for any services rendered or goods supplied in the ordinary and usual course of business to the Company; or
+2.  of interest at a rate not exceeding current bank overdraft rates of interest for money lent; or
+3.  of reasonable rent for premises let to the Company by them.
+
+## Membership
 
 ### Categories of Members
 
-The Members shall consist of:
+Members of the Company shall fall into one of the following categories:
 
-1.  National Touch Associations, which subject to this Constitution shall be either:
-    1.  A National Touch Association (NTA) Member – Category A represented by their Delegate who
-        shall have the right to be present, debate and vote (2 votes) at General Meetings; or
-    2.  A National Touch Association (NTA) Member – Category B represented by their Delegate who
-        shall have the right to be present, debate and vote (1 vote) at General Meetings.
-2.  Associate Members, who subject to this Constitution, shall have the right to be present (in
-    person or by Delegate) and debate at General Meetings, but shall have no voting rights;
-3.  Life Members, who subject to this Constitution, shall have the right to be present and to debate
-    at General Meetings, but shall have no voting rights;
-4.  Individual Members, which subject to this Constitution, shall have no right to be present,
-    debate or vote at General Meetings.
-5.  The rights, privileges and obligations for each category of membership will be as determined and
-    prescribed in the Regulations from time to time.
+1.  Full Member;
+2.  Observer Member;
+3.  Individual Member; or
+4.  Other Categories of Members.
 
-### National Touch Association Membership
+#### Full Member
 
-1.  Subject to this Constitution, the NTA Members in General Meeting may from time to time grant an
-    applicant for membership, NTA Membership.
-2.  The Board may renew NTA membership or reject a renewal, or an applicant, for NTA membership if
-    any of the required criteria prescribed in the Regulations for NTA membership is not complied
-    with.
+1.  This category is only available to NTOs.
+2.  Full Member shall be represented by their Delegate who shall have the right to be present, debate and vote at General Meetings in accordance with the following:
+    1.  One (1) vote;
+    2.  One (1) additional vote for each team competed in the most recent Youth and World Cup series. A series is defined as the Youth, Open and Age groups World Cups generally occurring over an approximate four (4) year period.
+    3.  If by any set of circumstances either the Youth Touch World Cup or Touch World Cup event was not staged in the preceding four (4) years, votes will be allocated on the last completed Touch World Cup.
+3.  Full Members must continue to meet the membership requirements as set down in the regulations.
 
-### Associate Membership
+#### Observer Member
 
-1.  The Board may from time to time grant an applicant for membership, associate membership. Such
-    membership may be granted to any individual or entity who:
-    1.  Is the Board recognised individual or entity responsible for developing Touch in a country
-        that does not yet have an NTA member of the Federation; and
-    2.  Undertakes to implement a program to achieve NTA membership within the five-year period of
-        becoming an Associate Member.
-2.  Failure to meet the required criteria will result in a loss of membership after the five year
-    period unless exceptional circumstances exist and as are determined and approved by the Board.
-3.  The Board may renew associate membership or reject renewal or an applicant, if at any time it
-    considers the applicant is not acting in the best interests of the development of Touch in that
-    Country.
+1.  This category is only available to NTOs.
+2.  Observer Members shall be represented by their Delegate who shall have the right to be present and debate at General Meetings but shall have no voting rights.
+3.  Observer Members must continue to meet the membership requirements as set down in the regulations.
 
-### Life Members
+#### Individual Member
 
-1.  The Board may recommend to the Annual General Meeting that any person, who has rendered
-    distinguished or special service to Touch, may be granted Life Membership.
-2.  A resolution of the Annual General Meeting to confer life membership on the recommendation of
-    the Board must be passed by a Special Resolution. The vote on such resolution will be taken by
-    secret ballot.
-3.  Conditions, obligations and privileges of life membership shall be as prescribed in the
-    Regulations.
+1.  This category is awarded to a natural person who is:
+    1.  A registered, financial, individual Member or an ordinary Member or a Life Member or a patron of a Touch organisation or club affiliated with a Member; or
+    2.  An elected, appointed, or registered official of FIT recognised as an Individual Member
+2.  Individual Members shall have no right to receive notice of, attend, or vote at General Meetings.
 
-### Individual Members
+#### Other Category of Member
 
-Any natural person who is:
+1.  Such other categories of Member (with no voting rights) as may be created by the Board and so long as the effect of this is not to create new voting rights, to alter the rights, privileges or obligations of an existing category of Members.
 
-1.  A registered, financial, individual member or an ordinary member or a life member or a patron of
-    a Touch association or club affiliated with a National Touch Association; or
-2.  An elected, appointed or registered official of the Federation shall be recognised as an
-    Individual Member and shall be subject to this Constitution and the Regulations.
+### Requirements of Members
 
-## Subscriptions, fees and levies
+#### Requirements of Full Member
 
-The annual membership subscription (if any), fees and any levies payable by Members to the
-Federation, the time for and manner of payment shall be as determined by the Board from time to
-time.
+Requirements of Full Members are determined by the Board and recorded in the regulations.
 
-## Application for membership
+#### Requirements of Observer Member
 
-### Application
+Requirements of Observer Members are determined by the Board and recorded in the regulations.
 
-An application for membership must be:
+#### Requirements of Individual Member
 
-1.  In writing on such form as is prescribed by the Board from time to time;
-2.  Accompanied by the applicant's constituent documents and the names of its committee members and
-    Delegate on such form as is prescribed by the Board from time to time; and
-3.  Accompanied by the appropriate fee, if any.
+Requirements of Individual Members are determined by the Board and recorded in the regulations.
 
-### Discretion to Accept or Reject Application
+### Membership rights, privileges and obligations
 
-1.  The Federation may accept or reject an application whether the applicant has complied with the
-    requirements in **Rule 15.1** or not.
-2.  Where the Federation accepts an application, the applicant will become a Member.
-3.  Membership of the Federation will commence upon acceptance of the application by the Federation.
-4.  Where the Federation rejects an application, the Federation will refund any fees forwarded with
-    the application, and the application will be deemed rejected by the Federation. The Federation
-    need not give any reasons for rejecting any membership application.
+The rights, privileges, and obligations for each category of membership will be as determined and prescribed in this Constitution and Regulations of FIT from time to time.
+
+### Membership subscription fees
+
+Member subscription fees are determined by the Board.
 
 ### Membership Renewal
 
-1.  National Touch Associations must renew membership of the Federation in accordance with the
-    procedures prescribed by the Board from time to time in the Regulations.
-2.  Upon renewal of membership a National Touch Association must lodge with the Federation any
-    amendments to its constitution and changes in its Delegate.
+1.  Unless otherwise determined by the Board, Members must apply annually to renew membership with the Company in accordance with the procedure set down by the Company and Regulations from time to time.
+2.  The Board may reject the renewal of an application if at any time it considers the applicant is not acting in the best interests of the development of Touch. Prior to the rejection being activated, current NTO's be given two calendar weeks to respond to the rejection.
+3.  The Board may renew the membership if it is in the interest of the development of Touch.
+4.  Upon applying for renewal each year, each NTO must lodge with the Company:
+    1.  an updated copy of its constitution (including all amendments);
+    2.  any other information reasonably required by the Company, including but not limited to a copy of the minutes related to its previous years' Annual General Meeting;
+    3.  details of its committee; and
+    4.  details of its Delegate.
+5.  Each NTO must ensure that its constitution is amended to conform to any relevant amendments made to this Constitution provided that such amendment is not unlawful or in conflict with any relevant legislation.
 
-### Constitutional Compliance
+### Admission of Members
 
-1.  All National Touch Associations shall have one year from the approval of this Constitution under
-    the Act in which to amend their constitution in accordance with this Constitution, and for such
-    time as their constitutions do not conform shall not be unduly penalised for such
-    non-compliance, the extent that such non-compliance is not willful or calculated to cause harm
-    or prejudice to the Federation.
+Upon meeting the criteria applicable to the relevant category of membership set out in this Constitution and the Regulations, a person will become a Member.
 
-## Register of members
+The Directors will direct the Company Secretary to record  NTO's name and contact details in the Federation's register of Members kept by the Company.
 
-### Secretary General to Keep Register
+### Schedule of Members as at Date of Incorporation of the Company
 
-The Secretary General shall keep and maintain a Register of Members in which shall be entered:
+The list of NTO's and their class of membership as at the date of incorporation of the Company is set out in Schedule 1.
 
-1.  The full name, address, and date of entry of the name of each Member; and
-2.  The full name, address and date of entry of the name of each Delegate.
+## Application for Membership
 
-### Inspection of Register
+### Application for Membership
 
-Having regard to confidentiality considerations, an extract of the Register, excluding the address
-of any Member or Delegate, shall be available for inspection by Members, upon reasonable request.
+An application for membership from an NTO must be:
 
-## Effect of membership
+1.  in writing on the form prescribed from time to time by the Board (if any), from the applicant or its nominated representative and lodged with the Company;
+2.  accompanied by a copy of the applicant's constitution (which must be acceptable to the Company), the names of the applicant's committee members and the applicant's register of members (if applicable);
+3.  accompanied by the appropriate fee (if any); and
+4.  be otherwise in accordance with any requirements set out in this Constitution and/or the Regulations (if applicable).
 
-Members acknowledge and agree that:
+### Discretion to accept or reject an application
 
-1.  This Constitution constitutes a contract between each of them and the Federation and that they
-    are bound by this Constitution and the Regulations;
-2.  They shall comply with and observe this Constitution and the Regulations and any determination,
-    resolution or policy which may be made or passed by the Board or any duly authorised committee;
-3.  By submitting to this Constitution and the Regulations they are subject to the control and
-    jurisdiction of the Federation;
-4.  This Constitution and the Regulations are necessary and reasonable for promoting the Objects and
-    particularly (but not only) the advancement and protection of Touch; and
-5.  They are entitled to all benefits, advantages, privileges and services of Federation membership.
+1.  The Board may accept or reject an application whether the applicant has complied with the requirements in **clause 7.1** or not. The Board shall not be required or compelled to provide any reason for such acceptance or rejection.
+2.  Where the Board accepts an application, the applicant shall become a Member. Membership shall be deemed to commence upon acceptance of the application by the Board. The Company Secretary shall amend the Register accordingly as soon as practicable.
+3.  Where the Board rejects an application for membership the Company shall refund any fees forwarded with the application and the application shall be deemed rejected by the Board.
 
-## Discontinuance of membership
+## Members - General
 
-### Notice of Resignation
+### General
 
-Any Member which or who has paid all monies due and payable to the Federation may resign from the
-Federation by giving three months notice in writing to the Federation of such intention to withdraw
-or resign and upon the expiration of that period of notice, the Member shall cease to be a Member.
+1.  The Company must keep a register of all NTO Members in accordance with the Corporations Act.
+2.  Membership is personal to each Member. No Member shall, or purport to, assign the rights comprising or associated with membership to any other person and any attempt to do so shall be void.
+3.  A Member must not act in a manner unbecoming of a Member or prejudicial to the Objects and interests of the Company or Touch, or both.
 
-### Expiration of Notice Period
+### Limited Liability
 
-Upon the expiration of a notice given under Rule 18.1, an entry, recording the date on which the
-Member who or which gave notice ceased to be a Member shall be recorded in the Register.
+Members have no liability in that capacity except as set out in **clause 26**.
 
-### Forfeiture of Rights
+## Cessation of Membership
 
-A Member that ceases to be a Member, for whatever reason, shall forfeit all right in, and claim
-upon, the Federation and its property including Intellectual Property.
+### Cessation
 
-### Delegate Position Lapses
+A Member ceases to be recognised as a Member of the Federation on:
 
-The position of Delegate shall lapse immediately on cessation of membership of a National Touch
-Association Member or Associate Member.
+1.  resignation;
+2.  death;
+3.  the termination of their membership according to this Constitution or the Regulations;
+4.  the organisation or association being dissolved or otherwise ceasing to exist; or
+5.  where a Member no longer meets the eligibility for Membership.
 
-### Refund of Membership Fees
+### Resignation
 
-Membership fees or subscriptions paid by a discontinued Member for the relevant year may be refunded
-on a pro-rata basis to the Member upon discontinuance. The name of such Member shall be removed from
-the Register of Members as soon as practicable.
+For the purposes of **clause 9.1(a)**, a Member may resign from the Company by giving 14 days written notice to the Board.
 
-### Failure to Renew
-
-Notwithstanding Rule 19 the Board may expel or suspend a Member, which has not renewed its
-membership of the Federation within one month of membership renewal falling due.
-
-### Member to Re-Apply
-
-A Member which has been expelled or suspended or whose membership has lapsed under Rule 18.6:
-
-1.  Must re-apply for membership in accordance with this Constitution; and
-2.  May be re-admitted at the discretion of the Board.
-
-## Discipline of members
+## Discipline of Members
 
 ### Disciplinary Action
 
 Where the Board is advised or considers that a Member has allegedly:
 
-1.  Breached, failed, refused or neglected to comply with a provision of this Constitution, the
-    Regulations or any resolution or determination of the Board or any duly authorised committee; or
-2.  Acted in a manner unbecoming of a Member or prejudicial to the objects and interests of the
-    Federation and/or Touch; or
-3.  Brought the Federation or Touch into disrepute;
+1.  breached, failed, refused or neglected to comply with a provision of this Constitution or the Regulations; or
+2.  acted in a manner unbecoming of a Member or prejudicial to the Objects and interests of the Company and/or Touch; or
+3.  brought the Company or Touch into disrepute,
 
-the Board may commence or cause to be commenced disciplinary proceedings ("proceedings") against
-that Member, and that Member will be subject to, and submits unreservedly to the jurisdiction,
-procedures, penalties and appeal mechanisms of the Federation set out in the Regulations.
+the Board may commence or cause to be commenced disciplinary proceedings against that Member. That Member will be subject to, and submit unreservedly to the jurisdiction, procedures, penalties and appeal mechanisms of the Company, whether set out in Regulations or as determined by the Board. The Board shall ensure the principles of natural justice are afforded to the Member in all cases.
 
-## Annual General Meeting
+### Good standing
 
-1.  An Annual General Meeting of the Federation shall be held in accordance with the Act and on a
-    date and at a venue to be determined by the Board.
-2.  All General Meetings other than the Annual General Meeting shall be Special General Meetings and
-    shall be held in accordance with this Constitution.
+Notwithstanding **clause 10.1** where a Member fails to comply with their or its financial or other obligations under this Constitution or any Regulations, the Board may determine that Member is not of good standing. On a determination that a Member is not of good standing, the Board may give notice to the Member of the:
 
-## Notice of Annual General Meeting
+1.  Board's determination; and
+2.  grounds for the Board's determination;
 
-1.  Notice of Annual General Meeting shall be given to every Member entitled to notice (being NTA,
-    Associate and Life Members) at the address appearing in the Register kept by the Federation. No
-    other person shall be entitled as of right to receive notices of General Meetings.
-2.  Notice of an Annual General Meeting shall be given to Members at least four (4) months prior to
-    the Annual General Meeting and shall specify the place and day and hour of meeting.
-3.  Members wishing to place items on the Agenda must send their proposals in writing (with covering
-    explanation of proposal) to the Secretary General at least two (2) months prior to the date of
-    the Annual General Meeting.
-4.  The agenda for the meeting stating the business to be transacted at the meeting shall be given
-    to Members at least one (1) month prior to the Annual General Meeting, together with any notice
-    of motion received from Members.
+and request that the Member show cause within such time as is determined by the Board as to why further action should not be taken against the Member. The Member's failure to respond or act to the Board's satisfaction (including assurances or compliance with his or its obligations) may result in the Board suspending the Member's membership of the Company or otherwise imposing such conditions on membership, as the Board sees fit. In determining any matter under this clause, the principles of natural justice shall be afforded to the Member.
 
-## Business
+### Member Protection Issues
 
-1.  The business to be transacted at the Annual General Meeting includes:
-    1.  Approval of new membership applications of National Touch Associations;
-    2.  Consideration of accounts and the reports of the Board and auditors;
-    3.  The election of Directors;
-    4.  The appointment and fixing of the remuneration of the auditors;
-    5.  Amendments to this Constitution.
-2.  All business that is transacted at a Special General Meeting, and also all that is transacted at
-    an Annual General Meeting, with the exception of those matters set down in Rule 22(a) shall be
-    special business.
-3.  No business other than that stated on the notice shall be transacted at that meeting.
+**Clause 10.1** does not apply to any incident or matter to which the member protection regulation or policy (if any) of the Company applies. Any member protection-related                                                                                                                                                                                                                                                                             matter must be dealt with following the procedure set out in the Company's member protection regulation or policy.
 
-## Notices of motion
+## Fees and Subscriptions
 
-All notices of motion for inclusion as special business at an Annual General Meeting must be
-submitted in writing to the Secretary General not less than two (2) months (excluding receiving date
-and meeting date) prior to the Annual General Meeting. Unless a proposed notice of motion is
-supported by all necessary documentation it may be rejected by the Board and not included as special
-business at the Annual General Meeting.
+### Membership Fee
 
-## Special General Meetings
+1.  The Board must determine and publicise to the Members from time to time:
+    1.  the amount (if any) payable by an applicant for membership;
+    2.  the amount of the annual/seasonal subscription fee payable by each Member, or any category of Members;
+    3.  any other amount to be paid by each Member, or any category of Members, whether of a recurrent or any other nature; and
+    4.  the payment method and the due date for payment.
+2.  Each Member must pay to the Company the amounts determined under **clause 11.1(a)**.
 
-### Special General Meetings Convened by the Board
+### Non-Payment of Fees
 
-1.  The Board may, whenever it thinks fit, convene a Special General Meeting of the Federation and,
-    where, but for this Rule more than 15 months would elapse between Annual General Meetings, shall
-    convene a Special General Meeting before the expiration of that period.
-2.  Notice of a Special General Meeting shall be given to Members entitled to notice, (being NTA,
-    associate and life members), at least two (2) months prior to the Special General Meeting and
-    shall specify the place and day and hour of meeting.
-3.  The agenda for the Special General Meeting stating the business to be transacted at the meeting
-    shall be given to Members at least one (1) month prior to Special General Meeting.
+1.  The right of a Member to attend and vote (if applicable) at a General Meeting will be  suspended, while the payment of any subscription or other amount payable by the Member is in Arrears remains outstanding, in accordance with relevant Regulations.
+2.  If a Member fails to pay any subscription or other amount within six months from the due date for payment, Member's membership shall be suspended at the end of the six months.
+3.  The Member will remain suspended until the payment of all Arrears are received by the Company.
 
-### Requisition of Special General Meetings by Members
+## General Meetings
 
-1.  The Secretary General shall convene a Special General Meeting within one month of receiving a
-    requisition signed by six (6) Members (being NTA Members).
-2.  The requisition for a Special General Meeting shall state the object(s) of the meeting, shall be
-    signed by the Members making the requisition and be sent to the Federation and may consist of
-    several documents in a like form, each signed by one or more of the Members making the
-    requisition.
-3.  If the Board does not cause a Special General Meeting to be held within two (2) months after the
-    date on which the requisition is sent to the Federation, the Members making the requisition, or
-    any of them, may convene a Special General Meeting to be held not later than three (3) months
-    after that date.
-4.  A Special General Meeting convened by Members under this Constitution shall be convened in the
-    same manner, or as nearly as possible as that, in which meetings are convened by the Board.
+### Annual General Meeting
 
-## Proceedings at General Meetings
+Annual General Meetings of the Company are to be held:
+
+1.  according to the Corporations Act; and
+2.  at a date and venue determined by the Board.
+
+### Power to convene General Meeting
+
+1.  The Board may convene a General Meeting when they think fit and must do so if required by the Corporations Act.
+2.  The Voting Members through their Delegate may convene a General Meeting, which must comply with the requirements under the Corporations Act.
+
+### Notice of a General Meeting
+
+1.  In accordance with **clause 24** and the Corporations Act, notice of a General Meeting of Members must be given to:
+    1.  every Voting Member;
+    2.  every Observer Member;
+    3.  the Directors;
+    4.  the auditor for the time being of the Company;
+    5.  every Regional Federation;
+    6.  anyone else the Board elects to invite.
+2.  At least 30 days' notice of the time and place of a General Meeting must be given, together with:
+    1.  all information required to be included in accordance with the Corporations Act;
+    2.  in the case of a proposed Special Resolution, the intention to propose the Special Resolution and the terms of the proposed Special Resolution;
+    3.  where applicable, any notice of motion received from any Voting Member or Director in accordance with the Corporations Act; and
+    4.  where applicable, a list of all nominations received for positions to be elected at the relevant General Meeting.
+
+### No other business
+
+No business other than that stated in the notice of meeting may be transacted at a General Meeting.
+
+### Cancellation or postponement of General Meeting
+
+Where a General Meeting (including an Annual General Meeting) is convened by the Board they may, if they think fit, cancel the meeting or postpone the meeting to a date and time they determine.
+This **clause 12.5** does not apply to a General Meeting convened by:
+
+1.  Members according to the Corporations Act;
+2.  the Board at the request of Members; or
+3.  a court.
+
+### Written notice of cancellation or postponement of General Meeting
+
+Notice of the cancellation or postponement of a General Meeting must state the reasons for doing so and be given to:
+
+1.  each Member entitled to attend the General Meeting; and
+2.  each other person entitled to notice of a General Meeting under the Corporations Act.
+
+### Contents of notice postponing General Meeting
+
+A notice postponing a General Meeting must specify:
+
+1.  the new date and time for the meeting;
+2.  the place where the meeting is to be held, which may be either the same as or different to the place specified in the notice originally convening the meeting; and
+3.  if the meeting is to be held in two or more places, the technology that will be used to hold the meeting will comply with **clause 18**.
+
+### Number of clear days for postponement of General Meeting
+
+The number of clear days from the giving of a notice postponing a General Meeting to the date specified in that notice for the postponed meeting must not be less than the number of clear days' notice of that General Meeting required to be given by **clause 13.8** or the Corporations Act.
+
+### Business at postponed General Meeting
+
+The only business that may be transacted at a postponed General Meeting is the business specified in the notice originally convening the meeting.
+
+### Proxy Voting
+
+1.  Proxy voting shall be permitted at General Meetings in accordance with the Corporations Act and the Regulations.
+2.  The proxy needs to be on the prescribed form and lodged with the Company Secretary 7 days prior to the General Meeting
+3.  Proxy shall be granted to a Delegate.
+4.  No Delegate shall hold proxies for more than one other Member.
+
+### Postal or Electronic voting
+
+Postal or electronic voting shall be permitted at General Meetings as determined by the Board and in accordance with the Corporations Act and the Regulations.
+
+## Proceedings at General Meeting
+
+### Number for a quorum
+
+The number of Members who must be present (physically or electronically) and eligible to vote for a quorum to exist at a General Meeting shall be those Delegates holding entitlement to 25% of the votes. A proxy vote shall count towards achieving a quorum.
+
+### Requirement for a quorum
+
+An item of business may not be transacted at a General Meeting unless a quorum is present at the commencement of and remains throughout the General Meeting.
+
+### Quorum and time
+
+If, within 30 minutes after the time appointed for a General Meeting, a quorum is not present, the meeting:
+
+1.  if convened by, or on the requisition of, Members, is dissolved; and
+2.  In any other case stands adjourned to such other day, time and place as the chair determines.
+
+### Adjourned meeting
+
+If a quorum is not present within 30 minutes after the time appointed for the adjourned meeting, those members then present shall constitute a quorum.
+
+### Chairperson to preside over General Meetings
+
+1.  The Chairperson is entitled to preside as chair at General Meetings.
+2.  If a General Meeting is convened and there is no chair or the chair is not present within 15 minutes after the time appointed for the meeting or is unable or unwilling to act, the following may preside as chair (in order of entitlement):
+    1.  a Director (or another person) chosen by a majority of the Directors present;
+    2.  the only Director present; or
+    3.  a Delegate of a Voting Member who is entitled to vote and is chosen by a majority of the Voting Members present.
+
+### Conduct of General Meetings
+
+1.  The chair:
+    1.  has charge of the general conduct of the meeting and of the procedures to be adopted;
+    2.  may require the adoption of any procedure which in his or her opinion is necessary or desirable for proper and orderly debate or discussion or the proper and orderly casting or recording of votes; and
+    3.  may, having regard where necessary to the Corporations Act, terminate discussion or debate on any matter whenever he considers it necessary or desirable for the proper conduct of the meeting.
+2.  A decision by the chair under **clause 13.6** is final.
+
+### Adjournment of General Meeting
+
+1.  The chair may, with the consent of any meeting at which a quorum is present, and must if so directed by the meeting, adjourn the meeting or any business, motion, question, resolution, debate or discussion being considered or remaining to be considered by the meeting.
+2.  The adjournment may be either to a later time at the same meeting or to an adjourned meeting at any time and place agreed by a vote of the Members present.
+3.  Only unfinished business is to be transacted at a meeting resumed after an adjournment.
+
+### Notice of adjourned meeting
+
+1.  It is not necessary to give any notice of an adjournment or of the business to be transacted at any adjourned meeting unless a meeting is adjourned for 30 days or more.
+2.  In that case, at least the same period of notice as was originally required for the meeting must be given for the adjourned meeting.
+
+### Questions decided by a majority
+
+Subject to the requirements of the Corporations Act and except in the case of a Special Resolution, a resolution is carried if a simple majority of the votes cast on the resolution are in favour of it.
+
+### No casting vote
+
+Where voting is equal there is no casting vote and the motion is lost.
+
+### Declaration of results
+
+1.  At any General Meeting, a resolution put to the vote of the meeting must be decided on a show of hands unless:
+    1.  a poll is properly demanded and the demand is not withdrawn; or
+    2.  the chair determines that a poll should be conducted; or
+    3.  the vote is cast electronically.
+2.  A declaration by the chair that a resolution has on a show of hands been carried or carried unanimously, or by a particular majority, or lost, and an entry to that effect in the minutes of the meetings of the Company, is conclusive evidence of the fact.
+3.  Neither the chair nor the minutes need state, and it is not necessary to prove the number or proportion of the votes recorded for or against the resolution.
+
+### Poll
+
+1.  If a poll is properly demanded in accordance with the Corporations Act or by the chair of the meeting, it must be taken in the manner and at the date and time directed by the chair, and the result of the poll is the resolution of the meeting at which the poll was demanded.
+2.  A poll demanded on the election of a chair or on a question of adjournment must be taken immediately.
+3.  A demand for a poll may be withdrawn.
+4.  A demand for a poll does not prevent the General Meeting from continuing for the transaction of any business other than the question on which the poll was demanded.
+
+### Objection to voting qualification
+
+1.  An objection to the right of a person to attend or vote at a General Meeting (including an adjourned meeting):
+    1.  may not be raised except at that meeting; and
+    2.  must be referred to the chair, whose decision is final.
+2.  A vote not disallowed under the objection is valid for all purposes.
+
+### Chair to determine any poll dispute
+
+If there is a dispute about the admission or rejection of a vote, the chair must decide it and the chair's decision made is final.
+
+## Votes of Members
+
+1.  At a General Meeting, on a show of hands and on a poll, each of the Voting Members through their Delegate shall have the votes set out in **clause 6**.
+2.  Subject to any rights or restrictions attached to any category of membership at a General Meeting the voting rights of Members can only be exercised by the Delegates.
+3.  No person other than as set out in **clause 14(b)** shall be entitled to vote at General Meetings or otherwise represented at General Meetings.
+4.  No Delegate is entitled to vote at any General Meeting unless they have been properly appointed and authorised in accordance with this Constitution and the Company has been notified of the Delegate's appointment.
+5.  A Member will have a loss of voting rights if fees are in Arrears.
+
+## Board
+
+### Composition of the Board
+
+The Board shall comprise:
+
+1.  not less than three (3) Directors and not more than nine (9) Directors.
+2.  not more than five (5) Directors are to be elected by the Members (Elected Directors); and
+3.  not more than four (4) are to be appointed (Appointed Directors).
+
+### Portfolios
+
+The Board may allocate portfolios to Directors.
+
+### Eligibility
+
+1.  A Director must not hold a position at the Board level of an NTO or be an employee (defined as a disqualifying position) of FIT or a Member.
+2.  A Director who accepts a disqualifying position must notify the Board of that fact immediately and is deemed to have vacated their office as a Director.
+3.  A Director must also meet the fit and proper person test as in the Corporations Act, and cannot be a disqualifying person for the purposes of that provision.
+
+### Elected Directors
+
+1.  At least 90 days prior to the proposed date of the Annual General Meeting at which a resolution or resolutions will be proposed to fill a vacancy in an Elected Director position, the Company Secretary will request from Voting Members nominations (which comply with this **clause 15.4**) for elections to positions falling vacant.
+    1.  Subject to this Constitution, additional nomination processes including a Nominations Committee, qualifications and job descriptions shall be as determined by the Board from time to time.
+2.  Nominations must be received no less than 60  days prior to the Annual General Meeting.
+3.  A Voting Member may nominate a person to fill a vacancy in an Elected Director position that is to be the subject of an election at the next Annual General Meeting.
+4.  A nomination must:
+    1.  be in writing on the prescribed form as required by the Board; and
+    2.  signed by a nominator and a seconder who must be authorised representatives of a Full Member (the relevant Member must not be in arrears at the prescribed time as determined by FIT).
+    3.  certified by the nominee expressing their willingness to accept the position for which they are nominated.
+5.  Subject to **clause 15.3**, an Elected Director will hold office for a term of four (4) years.
+6.  A retiring Elected Director holds office until the end of the meeting at which that Elected Director retires but, subject to the requirement of this Constitution, is eligible for re-election.
+7.  At a General Meeting:
+    1.  at which an Elected Director retires; or
+    2.  at the commencement of which there is a vacancy in the office of an Elected Director,
+    3.  there will be a vote of the Members conducted in accordance with **clause 15.4(h)** to fill the vacancy by electing someone to that office
+8.  Elections for Elected Directors shall be by secret ballot, in accordance with this **clause 15.4(h)** and the Regulations, at the relevant General Meeting on papers prepared by the Company Secretary. The ballot for an election to fill one or more Elected Director positions will be conducted in accordance with the following procedure:
+    1.  If at the close of nominations for an election to fill one or more Elected Director positions the number of eligible nominees is equal to or less than the number of positions to be filled, then those nominated shall be declared elected only if approved by the majority of the votes cast in a secret ballot; and
+    2.  If at the close of nominations for an election to fill one or more Elected Director positions there are more eligible nominees than the number of positions to be filled, a secret ballot will be conducted as determined by the Board from time to time and under any such poll the eligible nominee/s who receives the highest number of votes (in accordance with any Regulations) will be elected to fill the Elected Director positions.
+    3.  In the event of a tied vote for a vacant position, a new ballot will be called to break the tie. The new ballot will be conducted in the same manner as the first, with only the tied candidates listed. If the tie cannot be broken with the subsequent ballot, the tied position will remain vacant.
+    4.  In the event of a tied vote for ranking to determine which candidate will serve the longer term, a new ballot will be called to break the tie. The new ballot will be conducted in the same manner as the first, with only the tied candidates listed. If the tie cannot be broken with the subsequent ballot, all candidates' term duration will be limited to the lessor of the tied positions.
+
+### Casual Vacancy in ranks of Elected Directors
+
+1.  The Board may at any time appoint a person to fill a casual vacancy (as defined under **clause 15.10**) in the rank of the Elected Directors.
+2.  A person appointed under **clause 15.5(a)**:
+    1.  holds office until the next AGM where the appointment is confirmed by resolution; and
+    2.  is not eligible to be appointed as the Chairperson.
+
+### Appointed Directors
+
+1.  The Elected Directors may appoint up to four (4) people to be Directors who may have specific skills which complement the Board composition. Such persons will be known as Appointed Directors.
+2.  A person appointed under **clause 15.6(a)** is not eligible to be appointed as the Chairperson.
+3.  Subject to **clause 15.3** an Appointed Director holds office for a term determined by the Board not to exceed 4 years and the appointment will be on such other terms as the Board determines.
+4.  A person may only serve two (2) consecutive terms as an Appointed Director but, subject to the other requirements of this Constitution, are otherwise eligible to be elected to an Elected Director position.
+
+### Term of office of Elected Directors generally
+
+1.  The term of office for an Elected Director is four (4) years (subject to **clause 15.3**).
+2.  Elected Directors are elected on a rotational basis with at least an election for one (1) Elected Director taking place at each Annual General Meeting.
+3.  At the first Annual General Meeting following the adoption of the Constitution:
+    1.  two (2) Elected Directors with the most votes will be elected for a four (4) year term.
+    2.  one (1) Elected Directors with the next most votes will be elected for a three (3) year term.
+    3.  one (1) Elected Directors with the next most votes will be elected for a two (2) year term.
+    4.  one (1) Elected Directors with the next most votes will be elected for a one (1) year term.
+5.  Should any adjustment to the term of Elected Directors be necessary to ensure rotational terms in accordance with **clause 15.7(b)** this shall be determined by the Board. If the Board cannot agree it will be determined by lot.
+
+### Remuneration of Directors
+
+Subject to **clause 15.10**, a Director may only be paid for services as a Director but, with the approval of the Board and subject to the Corporations Act for:
+
+1.  services rendered to it other than as a Director; and
+2.  reasonable travelling, accommodation, and other expenses when:
+    1.  travelling to or from meetings of the Board, a Committee or the Company; or
+    2.  otherwise engaged in the affairs of the Company.
+3.  an Annual Honorarium as set by the Board, which aligns with the historical figure for honorariums.
+
+### Removal of Director
+
+1.  Subject to the provisions of the Corporations Act, the Company may in General Meeting by Ordinary Resolution remove any Director prior to the expiration of that Director's term of office.
+2.  Unless otherwise resolved at a General Meeting, a Director removed in accordance with **clause 15.10(b)** cannot be re-elected or re-appointed as a Director within two (2) years of removal.
+
+### Vacation of office
+
+The office of a Director becomes vacant when the Corporations Act says it does and also if the Director:
+
+1.  dies;
+2.  is removed in accordance with **clause 15.9**;
+3.  becomes of unsound mind or a person whose person or estate is liable to be dealt with in any way under a law relating to mental health;
+4.  resigns from office by notice in writing to the Company;
+5.  is not present at three consecutive Board meetings without leave of absence from the Board;
+6.  is directly or indirectly interested in any contract or proposed contract with the Company and fails to declare the nature of the interest as required by the Corporations Act;
+7.  is suspended or expelled from membership of the Company without further recourse under the Constitution;
+8.  in the opinion of the Board, subject always to the application of the principles of natural justice:
+    1.  has acted in a manner unbecoming or prejudicial to the Objects and interests of the Company and/or Touch (including but not limited to failing to adequately perform their duties as a Director); or
+    2.  has brought the Company or Touch into disrepute,
+9.  and unless otherwise resolved at a General Meeting, a Director removed in accordance with **clause 15.10(h)** cannot be re-elected or re-appointed as a Director within two (2) years of removal.
+
+### Alternate Director
+
+A Director cannot appoint an alternate.
+
+## Powers and Duties of board
+
+### Board to manage the Company
+
+The Board is to manage the Company's business and may exercise those of the Company's powers that are not required, by the Corporations Act or by this Constitution, to be exercised by the Company in General Meeting.
+
+### Specific powers of Board
+
+Without limiting **clause 16.1**, the Board may exercise all the Company's powers to borrow or raise money, to charge any property or business or give any other security for a debt, liability or obligation of the Company or of any other person.
+
+### Time
+
+Subject to the Corporations Act, where this Constitution requires that something be done by a particular time, or within a particular period, or that an event is to occur or a circumstance is to change on or by a particular date, the Board under exceptional circumstances may in its absolute discretion extend that time, period or date as it thinks fit.
+
+### Appointment of attorney
+
+The Board may appoint any person to be the Company's attorney for the purposes, with the powers, authorities and discretions, for the period and subject to the conditions they think fit.
+
+### Provisions in power of attorney
+
+A power of attorney granted under **clause 16.4** may contain any provisions for the protection and convenience of persons dealing with the attorney that the Board thinks fit and may also authorise the attorney to delegate (including by way of appointment of a substitute attorney) all or any of the powers, authorities and discretions of the attorney.
+
+### Delegation of powers
+
+1.  Without limiting **clause 16.4** the Board may, by resolution or by power of attorney or writing under seal, delegate any of their powers to any employee of the Company, Member, association, organisation, institution representing Touch, or any other person as they think fit.
+2.  Any delegation by the Board of its powers:
+    1.  must specify the powers delegated, any restrictions on, and conditions attaching to, the exercise of those powers and the period during which that delegation is to be in force;
+    2.  may be either general or limited in any way provided in the terms of the delegation;
+    3.  need not be to a specified person but may be to any person holding, occupying or performing the duties of a specified office or position; and
+    4.  may include the power to delegate.
+3.  If exercising a power depends on a person's opinion, belief or state of mind, then that power may be exercised by the delegate on the delegate's opinion, belief or state of mind about that matter.
+4.  Any power exercised by a delegate is as effective as if it had been exercised by the Board.
+
+### Code of Behaviour
+
+The Board must:
+
+1.  adopt a Code of Behaviour for Directors; and
+2.  periodically review the Code of Behaviour in light of the general principles of good corporate governance.
+
+A Director is to perform their responsibilities in accordance with the Federation's Code of Behaviour.
+
+## Proceedings of Board
+
+### Board meetings
+
+1.  Subject to **clause 17.1(b)**, the Board may meet together for conducting business, adjourn and otherwise regulate its meetings as it thinks fit.
+2.  The Board must meet at least five (5) times in each calendar year.
+
+### Questions decided by a majority
+
+A question arising at a Board meeting is to be decided by a majority of votes of the Directors present and entitled to vote. Each Director present has one (1) vote on a matter arising for decision by the Board.
+
+### Casting vote
+
+The chair of the meeting will have a casting vote where voting is equal.
 
 ### Quorum
 
-1.  No business shall be transacted at any General Meeting unless a quorum is present at the time
-    when the meeting proceeds to business. A quorum for General Meetings of the Federation shall be
-    25% of NTA Members represented by their Delegates.
-2.  Where a Member’s annual subscription is one month or more in arrears at the time of the General
-    Meeting it shall not be entitled to be included in the calculation of the quorum.
+The majority of Directors present constitutes a quorum. The quorum must be present at all times during the meeting.
 
-### Chairman
+### Effect of vacancy
 
-The President of the Federation shall, subject to this Constitution, preside as Chairman at every
-General Meeting of the Federation. If the President is not present, or is unwilling or unable to
-preside, the Board shall appoint another Director to preside as Chairman for that meeting only.
+The continuing Directors may act despite a vacancy in their number.
 
-### Adjournment of Meeting
+### Convening meetings
 
-1.  If within half an hour from the time appointed for the meeting, a quorum is not present, the
-    meeting shall be adjourned until the same day in the next two (2) weeks at the same time and place
-    or to such other day and at such other time and place as the Board may determine and if at the
-    adjourned meeting a quorum is not present within half an hour from the time appointed for the
-    meeting the meeting will continue.
-2.  The Chairman may, with the consent of any meeting at which a quorum is present, and shall, if so
-    directed by the meeting, adjourn the meeting from time to time and from place to place. No
-    business shall be transacted at any adjourned meeting other than the business left unfinished at
-    the meeting from which the adjournment took place.
-3.  When a meeting is adjourned for 30 days or more, notice of the adjourned meeting shall be given
-    as in the case of an original meeting.
-4.  Except as provided in **Rule 25.3(c)** it shall not be necessary to give any notice of an
-    adjournment or the business to be transacted at any adjourned meeting.
+1.  A Director may, and the Company Secretary at the request of a Director must, convene a Board meeting.
+2.  Notice of a meeting of the Board must be given individually to each Director (except a Director on leave of absence approved by the Board).  Notice of a meeting of the Board must be given not less than 14 days before the meeting and may be given in person, or by post or by telephone, or other electronic means.
+3.  A Director may waive notice of a meeting of the Board by giving notice to that effect to the Company in person or by post or by telephone, or other electronic means.
+4.  A person who attends a meeting of the Board waives any objection that person may have in relation to a failure to give notice of the meeting.
+5.  The non-receipt of a notice of a meeting of the Board or the accidental omission to give notice of a meeting to a person entitled to receive notice does not invalidate anything done (including the passing of a resolution) at a meeting of the Board.
 
-### Voting Procedure
+### Chairperson
 
-At any meeting a resolution put to the vote of the meeting shall, subject to this Constitution, be
-decided by simple majority on a show of hands unless a poll is (before or on the declaration of the
-result of the show of hands) demanded by:
+1.  The Elected Directors shall appoint a Chairperson from amongst their number. The Chairperson shall hold that office for such term as is determined by the Elected Directors but only whilst the person holds office as an Elected Director.
+2.  The Chairperson shall be the nominal head of the Company and will act as chair of any Board meeting or General Meeting at which they are present. If the Chairperson is not present, or is unwilling or unable to preside, the remaining Directors shall appoint one of their number to preside as chair for that meeting only.
 
-1.  The Chairman; or
-2.  Any Delegate.
+### Circulating resolutions
 
-### Recording of Determinations
+1.  The Board may pass a resolution without a Board meeting being held if notice in writing of the resolution is given to all Directors and a majority of the Directors entitled to vote on the resolution sign a document containing a statement that they are in favour of the resolution set out in the document.
+2.  Separate copies of the document may be used for signing by the Directors if the wording of the resolution and statement is identical in each copy. A document produced by electronic means under the name of a Director with the Director's authority is taken to be a document signed by the Director for the purposes of **clause 17.8(a)** and is taken to be signed when received by the Company in legible form.
+3.  The resolution is passed when the last Director signs providing a majority.
 
-Unless a poll is demanded under Rule 25.4, a declaration by the Chairman that a resolution has on a
-show of hands been carried or carried unanimously or by a particular majority or lost and an entry
-to that effect in the book containing the minutes of the proceedings of the Federation shall be
-conclusive evidence of the fact without proof of the number of the votes recorded in favour of or
-against the resolution.
+### Validity of acts of Board
 
-### Where Poll Demanded
+Everything done at a Board meeting or a Committee meeting, or by a person acting as a Director, is valid even if it is discovered later that there was some defect in the appointment, election or qualification of any of them or that any of them was disqualified or had vacated office.
 
-If a poll is demanded under Rule 25.4 it shall be taken in such manner and either at once or after
-an interval or adjournment or otherwise as the Chairman directs and the result of the poll shall be
-the resolution of the meeting at which the poll was demanded.
+### Directors' Interests
 
-### Resolutions not in General Meeting
+1.  A Director shall declare to the Board any material personal interest or related party transaction, as defined by the Corporations Act, as soon as practicable after that Director becomes aware of their interest in the matter.
+2.  Where a Director declares a material personal interest or in the event of a related party transaction, that Director must absent himself or herself from discussion of such matter and shall not be entitled to vote in respect of such matter unless otherwise determined by the Board.
+3.  In the event of any uncertainty in this regard, the issue shall immediately be determined by a vote of the Board or, if this is not possible, the matter shall be adjourned or deferred to the next meeting.
+4.  The Company shall maintain a register of declared interests.
 
-A resolution in writing, signed or assented to by telegram, cablegram, radiogram, facsimile, telex
-or other form of visible or other electronic communication by a majority of NTA Members entitled to
-vote shall be as valid and effectual as if it had been passed at a General Meeting duly convened and
-held. Any such resolution may consist of several documents in like form each signed by one or more
-of the NTA Members.
+### Minutes
 
-### Directors of the Federation
+The Board must cause minutes of meetings to be made and kept according to the Corporations Act.
 
-1.  Directors of the Federation shall be entitled to attend and speak at General Meetings but shall
-    have no voting rights other than the casting vote of the Chairman.
-2.  Guests may attend and/or speak at a General Meeting on the invitation of the Chairman.
+## Telecommunication Meetings of the Company
 
-## Voting at General Meetings
+### Telecommunication Meeting
 
-### Voting Rights
+1.  A Board Meeting or General Meeting may be held by means of a Telecommunication Meeting, provided that:
+    1.  the number of persons participating is not less than a quorum required for the relevant Meeting; and
+    2.  the meeting is convened and held in accordance with the Corporations Act.
+2.  All provisions of this Constitution relating to a meeting apply to a Telecommunication Meeting in so far as they are not inconsistent with the provisions of this **clause 18.1(a)**.
 
-A Member's voting rights must, subject to this Constitution, be exercised by its Delegate. Where a
-Member's annual subscription is one month or more in arrears at the time of the General Meeting it
-shall not be entitled to vote.
+### Conduct of Telecommunication Meeting
 
-### Methods of Voting
+The following provisions apply to a Telecommunication Meeting of the Company:
 
-Voting for Board elections shall be by secret ballot. Where voting is required to be by secret
-ballot or where a poll is demanded, the Chairman will appoint a returning officer and scrutineers.
-In the event of a ballot for the election of any Director, the Chairman may not appoint any
-candidate for election as scrutineer or returning officer.
+1.  all persons participating in the meeting must be linked by telephone, audio-visual or other instantaneous means for the purpose of the meeting;
+2.  each of the persons taking part in the meeting must be able to hear and be heard by each of the other persons taking part at the commencement of the meeting and each person so taking part is deemed for the purposes of this Constitution to be present at the meeting;
+3.  at the commencement of the meeting each person must announce his or her presence to all other persons taking part in the meeting;
+4.  at the commencement of the meeting all persons participating must be advised if any recording of the meeting is to be undertaken and that any recording of the meeting will be appropriately and confidentially managed;
+5.  a person may not leave a Telecommunication Meeting by disconnecting his or her telephone, audio-visual or other communication equipment unless that person has previously notified the chair;
+6.  a person may conclusively be presumed to have been present and to have formed part of a quorum at all times during a Telecommunication Meeting unless that person has previously notified the chair of leaving the meeting; and
+7.  A minute of proceedings of a Telecommunication Meeting is sufficient evidence of the proceedings and of the observance of all necessary formalities if the minute is certified to be a correct minute by the chair.
 
-### Proxy Voting Permitted
+## Company Secretary
 
-Proxy voting shall be permitted at General Meetings. Proxy votes must be completed on the prescribed
-form as determined from time to time and must be received by the Secretary General 48 hours prior to
-the commencement time of the meeting.
+### Appointment of Company Secretary
 
-### Where Voting Equal
+There must be at least one Company Secretary who is to be appointed by the Board.
 
-Where voting is equal on any resolution at a General Meeting that resolution shall be lost unless
-the Chairman exercises his casting vote under Rule 26.5.
+### Suspension and removal of Company Secretary
 
-### Casting Vote
+The Board may suspend or remove a Company Secretary from that office.
 
-At a General Meeting the Chairman shall have a casting vote.
+### Powers, duties and authorities of Company Secretary
 
-## Delegates
+A Company Secretary holds office on the terms and conditions (including as to remuneration) and with the powers, duties and authorities, delegated to them by the Board.
 
-### Appointment of Delegate
-
-Each NTA Member shall appoint a Delegate at its annual general meeting for a term of one year.
-
-### Delegates as Representative
-
-Each Delegate shall represent his NTA Member at General Meetings.
-
-### Member to Advise
-
-Each NTA Member shall advise the Secretary General of its appointed Delegate's name, address, phone
-number and position within the Member within 14 days of his appointment.
-
-## Composition of the Board
-
-1.  The Board shall comprise the following Directors:
-    1.  The President;
-    2.  The Secretary General;
-    3.  The Finance Director; and
-    4.  Two (2) Directors; who shall all be elected under **Rule 29**; and
-    5.  Two (2) Directors; who may be appointed under **Rule 30**.
-2.  The duties of the Directors shall be as prescribed in Regulations.
-
-## Election of Board
-
-### Term of Appointment
-
-Directors shall be elected in accordance with this Constitution for terms of four years, which shall
-commence in accordance with **Rule 32.4**.
-
-### Qualifications for Board
-
-Nominees for the Board must meet the qualifications as prescribed from time to time by the Board and
-set out in this Constitution or in Regulations.
-
-### Nominations for Board
-
-Nominations must be:
-
-1.  In writing;
-2.  On the prescribed form (if any) provided for that purpose;
-3.  Signed by a nominator who must:
-    1.  Be a NTA Member; and
-    2.  Not be in arrears of the Member’s annual subscription;
-4.  Certified by the nominee expressing his willingness to accept the position for which he is
-    nominated; and
-5.  Endorsed by the NTA of the Country in which the nominee resides.
-
-### Receipt of Nominations
-
-The Secretary General must receive nominations at least two (2) months prior to the Annual General
-Meeting.
-
-### Elections
-
-The elections shall be by preferential ballot and shall be by secret ballot on papers prepared by the Secretary General.
-
-## Appointment of Directors
-
-1.  The Directors elected under **Rule 29** may appoint up to two (2) further Directors.
-2.  The Directors appointed under this Rule shall have such skills which generally compliment the
-    Board composition. They need not have experience in or exposure to Touch and do not need to be
-    Members.
-3.  The Directors appointed under this Rule shall be appointed for such term as is determined by the
-    Board but no longer than four (4) years.
-4.  The Board may appoint such other non-voting representatives to the Board as it sees fit.
-
-## Powers of the Board
-
-Subject to the Act and this Constitution the business of the Federation is to be managed by or under
-the direction of the Board. The Board may exercise all powers of the Federation except any powers
-that under the Act or this Constitution (if any) are required to be exercised in General Meeting.
-
-## Vacancies of Directors
-
-### Grounds for Termination of Director's Office
-
-In addition to the circumstances in which the office of a Director becomes vacant by virtue of the
-Act, the office of a Director becomes vacant if the Director:
-
-1.  Dies;
-2.  Becomes bankrupt or makes any arrangement or composition with his creditors generally;
-3.  Becomes of unsound mind or a person whose person or estate is liable to be dealt with in anyway
-    under the law relating to mental health;
-4.  Resigns his office in writing to the Federation;
-5.  Where a Director, is absent without the consent of the Board from meetings of the Board held
-    during a period of 6 months;
-6.  Holds any office of employment with the Federation;
-7.  Without the prior consent or later ratification of the Members in General Meeting holds any
-    office of profit under the Federation;
-8.  Is directly or indirectly interested in any contract or proposed contract with the Federation
-    and fails to declare the nature of his interest;
-9.  In the opinion of the Board:
-    1.  Has acted in a manner unbecoming or prejudicial to the objects and interests of the
-        Federation and/or Touch; or
-    2.  Has brought the Federation, any Member or Touch into disrepute;
-    3.  Is removed by Special Resolution; or
-    4.  Would otherwise be prohibited from being a director of a corporation under the *Corporations
-        Act*.
-
-### Casual Vacancies
-
-Any casual vacancy occurring in the position of Director may be filled by the remaining Directors
-from among appropriately qualified persons. Any casual vacancy may only be filled for the remainder
-of the Director's term under this Constitution.
-
-### Board May Act
-
-In the event of a casual vacancy or vacancies in the office of a Director or Directors, the
-remaining Directors may act but, if the number of remaining Directors is not sufficient to
-constitute a quorum at a meeting of the Board, they may act only for the purpose of increasing the
-number of Director to a number sufficient to constitute such a quorum.
-
-### Term of Appointment
-
-Subject to this Constitution, the office of all Directors elected under **Rule 29** shall commence
-from the conclusion of the Annual General Meeting at which he/she is elected until the conclusion of
-the fourth Annual General Meeting following.
-
-## Meetings of the Board
-
-### Board to Meet
-
-The Board shall meet as often as is deemed necessary in every calendar year for the dispatch of
-business and may adjourn and, subject to this Constitution otherwise regulate, its meetings as it
-thinks fit. The Chairman or 3 Directors may at any time, and the Secretary General shall, on the
-requisition of the Chairman or 3 Directors, convene a meeting of the Board within a reasonable time.
-
-### Decisions of Board
-
-Subject to this Constitution, questions arising at any meeting of the Board shall be decided by a
-majority of votes and a determination of a majority of Directors shall for all purposes be deemed a
-determination of the Board. All Directors shall have one vote on any question. The Chairman shall
-have a casting vote where voting is equal.
-
-### Resolutions not in Meeting
-
-1.  A resolution in writing, signed or assented to by telegram, cablegram, radiogram, facsimile,
-    telex or other form of visible or other electronic communication by all the Directors shall be
-    as valid and effectual as if it had been passed at a meeting of Directors duly convened and
-    held. Any such resolution may consist of several documents in like form each signed by one or
-    more of the Directors.
-2.  Without limiting the power of the Board to regulate their meetings as they think fit, a meeting
-    of Board may be held where one or more of the Directors is not physically present at the
-    meeting, provided that:
-    1.  All persons participating in the meeting are able to communicate with each other effectively
-        simultaneously and instantaneously whether by means of telephone or other form of
-        communication;
-    2.  Notice of the meeting is given to all the Directors entitled to notice in accordance with
-        the usual procedures agreed upon or laid down from time to time by the Board and such notice
-        specifies that Directors are not required to be present in person;
-    3.  In the event that a failure in communications prevents condition (i) from being satisfied by
-        that number of Directors which constitutes a quorum, and none of such Directors are present
-        at the place where the meeting is deemed by virtue of the further provisions of this article
-        to be held then the meeting shall be suspended until condition (i) is satisfied again. If
-        such condition is not satisfied within 15 minutes from the interruption the meeting shall be
-        deemed to have terminated;
-    4.  Any meeting held where one or more of the Directors is not physically present shall be
-        deemed to be held at the place specified in the notice of meeting provided a Director is
-        there present and if no Director is there present the meeting shall be deemed to be held at
-        the place where the Chairman of the meeting is located.
-
-### Quorum
-
-At meetings of the Board the number of Directors whose presence is required to constitute a quorum
-is 50% or more, or such other number as may be fixed by the Board from time to time.
-
-### Notice of Board Meetings
-
-Unless all Directors agree to hold a meeting at shorter notice (which agreement shall be
-sufficiently evidenced by their presence) not less than 14 days written notice of the meeting of the
-Board shall be given to each Director. The agenda shall be forwarded to each Director not less than
-seven (7) days prior to such meeting.
-
-### Conflicts
-
-A Director shall not vote in respect of any contract or proposed contract with the Federation in
-which he is interested or any matter arising from that contract and if he does so vote his vote
-shall not be counted.
-
-### Chairman
-
-The President shall chair any Board meeting or General Meeting at which he is present. If the
-President is not present, or is unwilling or unable to preside, the remaining Directors shall
-appoint one of their numbers to preside as chairman for that meeting only.
-
-## Alternate Directors
-
-### Appointment of Alternate
-
-The Board may appoint a person to be an Alternate Director in place of a Director during such period
-as it thinks fit. Where an Alternate Director is appointed the Secretary General shall notify the
-Members of the appointment, the term of appointment and of the name and address of the Alternate
-Director.
-
-### Entitlement of Alternate
-
-Where an Alternate Director is appointed he is entitled to notice of meetings of the Board and, if
-the Director for which he is Alternate cannot be present (or otherwise available in accordance with
-this Constitution) at such a meeting, is entitled to attend and vote in his stead.
-
-### Deemed Exercise of Power by Appointer
-
-An Alternate Director may exercise any powers that the Director for which he is Alternate may
-exercise in the absence of that Director and the exercise of any such power by the Alternate
-Director shall be deemed to be the exercise of the power by that Director.
-
-### Termination of Alternate's Appointment
-
-1.  The appointment of an Alternate Director may be terminated at any time by the Board
-    notwithstanding that the period of the appointment of the Alternate Director has not expired.
-
-2.  An appointment, or the termination of an appointment, of an Alternate Director shall be effected
-    by a resolution of the Board to that effect.
-
-## Secretary General
-
-### Secretary General to Act as Secretary
-
-The Secretary General shall act as and carry out the duties of public officer under the Act and
-secretary of the Federation and shall administer and manage the Federation in accordance with this
-Constitution.
-
-### Specific Duties
-
-The Secretary General shall:
-
-1.  Call all Board meetings and all General Meetings;
-2.  Prepare the agenda for all Board meetings and General Meetings;
-3.  Facilitate the recording and preparation of minutes of the proceedings of all meetings of the
-    Board and the Federation, and shall use his best endeavours to distribute those minutes to
-    Members promptly from the date of the meeting; and
-4.  Regularly report on the activities of, and issues relating to, the Federation.
-
-### Broad Power to Manage
-
-Subject to the Act, this Constitution, the Regulations and any policy directive of the Board, the
-Secretary General has power to perform all such things as appear necessary or desirable for the
-proper management and administration of the Federation. No resolution passed by the Federation in
-General Meeting shall invalidate any prior act of the Secretary General or the Board which would
-have been valid if that resolution had not been passed.
-
-### Secretary General may Employ
-
-The Secretary General may employ such personnel as are deemed necessary from time to time. Such
-appointments shall be for such period and on such conditions as the Secretary General determines.
-
-## Delegations
+## Committees
 
 ### Board may delegate functions
 
-The Board may by instrument in writing create or establish or appoint committees, officers or
-consultants to carry out such duties and functions, and with such powers, as the Board determines.
+The Board may delegate any of its powers to Committees consisting of those persons they think fit (including Directors, individuals, and consultants), and may vary or revoke any delegation.
 
-### Delegation by instrument
+### Powers delegated to Committees
 
-The Board may in the establishing instrument delegate such functions as are specified in the
-instrument, other than:
+A Committee must exercise the powers delegated to it according to the terms of the delegation and any directions of the Board.
 
-1.  This power of delegation; and
-2.  A function imposed on the Board by the Act or any other law, or this Constitution or by
-    resolution of the Federation in General Meeting.
+Powers delegated to and exercised by a Committee are taken to have been exercised by the Board.
 
-### Delegated Function Exercised in Accordance With Terms
+### Committee meetings
 
-A function, the exercise of which has been delegated under this Rule, may whilst the delegation
-remains unrevoked, be exercised from time to time in accordance with the terms of the delegation.
-
-### Procedure of Delegated Entity
-
-The procedures for any delegated entity shall, with any necessary or incidental amendment, are the
-same as that applicable to meetings of the Board under this Constitution.
-
-### Delegation may be Conditional
-
-A delegation under this Rule may be made subject to such conditions or limitations as to the
-exercise of any function or at the time or circumstances as may be specified in the delegation.
+Unless otherwise determined by the Board, committee meetings are governed by the provisions of this Constitution dealing with Board meetings, as far as they are capable of application.
 
 ### Revocation of Delegation
 
-The Board may by instrument in writing, revoke wholly or in part any delegation made under this
-Rule, and may amend or repeal any decision made by such body or person under this Rule.
+The Board may by instrument in writing, revoke wholly or in part any delegation made under this clause, and may amend, repeal or veto any decision made by such body or person under this Rule only where such decision is clearly contrary to this Constitution, the Regulations, the Corporations Act, the Objects of the Company or the committee's delegation.
 
 ## Regulations
 
 ### Board to Formulate Regulations
 
-The Board may formulate issue, adopt, interpret and amend such Regulations for the proper
-advancement, management and administration of the Federation, the advancement of the Objects and
-Touch as it thinks necessary or desirable. Such Regulations must be consistent with the Objects and
-this Constitution and any policy directives of the Board.
+The Board may (by itself or by delegation to a committee) formulate, approve, issue, adopt, interpret and amend such Regulations, regulations and policies ("Regulations") for the proper advancement, management and administration of the Company, the advancement of the Objects and Touch as it thinks necessary or desirable. Such Regulations must be consistent with this Constitution.
 
 ### Regulations Binding
 
-All Regulations made under this Rule shall be binding on the Federation and Members.
+All Regulations made under this Rule shall be binding on the Company and Members.
 
-### Regulations Deemed Applicable
+### Notices Binding on Members
 
-All rules, by-laws and regulations of the Federation and of the Federation in force at the date of
-the approval of this Constitution under the Act insofar as such rules and regulations are not
-inconsistent with, or have been replaced by this Constitution, shall be deemed to be Regulations
-under this Rule.
+Amendments, alterations, interpretations or other changes to Regulations shall be advised to Members by means of notices approved by the Board and prepared and issued by the Board.  Notices are binding upon all Members.
 
-### Bulletins Binding on Members
+## Inspection of Records
 
-Amendments, alterations, interpretations or other changes to Regulations shall be advised to Members
-by means of bulletins approved by the Board and prepared and issued by the Secretary General.
-Bulletins are binding upon all Members.
+### Right of the Members to Inspect Records
 
-## Records Accounts
+A Member does not have the right to inspect any document of the Company (including registers kept by the Company) except as required by law.
 
-### Secretary General to Keep Records
+## Accounts
 
-The Secretary General shall establish and maintain proper records and minutes concerning all
-transactions, business, meetings and dealings of the Federation and the Board and shall produce
-these as appropriate at each Board or General Meeting.
+### Accounting Records
 
-### Records Kept in Accordance With Act
+The Board will cause proper accounting and other records to be kept and will distribute copies of financial statements as required by the Corporations Act.
 
-Proper accounting and other records shall be kept in accordance with the Act. The books of account
-shall be kept in the care and control of the Finance Director.
+### Auditor
 
-### Federation to Retain Records
+A properly qualified auditor or auditors shall be appointed by the Board and the remuneration of such auditor or auditors fixed and duties regulated in accordance with the Corporations Act.
 
-The Federation shall retain such records for four years after the completion of the transactions or
-operations to which they relate.
+## Service of Documents
 
-### Board to Submit Accounts
+### Document includes notice
 
-The Board shall submit to the Members at the Annual General Meeting the Statements of Account of the
-Federation in accordance with this Constitution.
+In this **clause 24.1**, document includes a notice.
 
-### Accounts Conclusive
+### Methods of service on a Member
 
-The Statements of Account when approved or adopted by an Annual General Meeting shall be conclusive
-except as regards any error discovered in them within 3 months after such approval or adoption.
+The Company may give a document to a Member:
 
-### Accounts to be sent to Members
+1.  personally;
+2.  by sending it by post to the address for the Member in the Register or an alternative address nominated by the Member;
+3.  by sending it to an electronic mail address nominated by FITas the official electronic mail address of the member; or
+4.  by posting the notice on the Company's website.
 
-The Secretary General shall cause to be sent to all persons entitled to receive notice of Annual
-General Meetings of the Federation in accordance with this Constitution, a copy of the Statements of
-Account, the Board's report, the auditor's report and every other document required under the Act
-(if any).
+### Methods of service on the Company
 
-### Negotiable Instruments
+A Member may give a document to the Company by:
 
-All cheques, promissory notes, bankers drafts, bills of exchange and other negotiable instruments,
-and all receipts for money paid to the Federation, shall be signed, drawn, accepted, endorsed or
-otherwise executed, as the case may be, by any two (2) members of the Board or in such other manner
-as the Board determines.
+1.  delivering it to the Registered Office;
+2.  sending it by post to the Registered Office; or
+3.  sending it to an electronic mail address nominated by the Company.
 
-### Funds
+### Post
 
-1.  The funds of the Federation shall be derived from capitation fees from Members and tournament
-    entry fees and such other sources as the Board determines.
-2.  The funds of the Federation shall be used in accordance with the Objects and in such manner as
-    the Board determines.
+A document sent by post if sent to an address:
 
-## Auditor
+1.  in Australia, may be sent by ordinary post; and
+2.  outside Australia, or sent from an address outside Australia, must be sent by airmail,
 
-1.  A properly qualified auditor or auditors shall be appointed and the remuneration of such auditor
-    or auditors fixed at the Annual General Meeting. The auditor's duties shall be regulated in
-    accordance with the Act.
-2.  The accounts of the Federation shall be examined and the correctness of the profit and loss
-    accounts and balance sheets ascertained by an auditor or auditors at least once in every year.
+and in either case, is taken to have been received on the second business day after the date of its posting.
 
-## Notice
+### Electronic mail transmission
 
-### Manner of Notice
+If a document is sent by electronic mail transmission, delivery of the document is taken to:
 
-1.  Notices may be given by the Secretary General to any Member by sending the notice by pre-paid
-    post or facsimile transmission or where available, by electronic mail, to the Member's
-    registered address or facsimile number or electronic mail address.
-2.  Where a notice is sent by post, service of the notice shall be deemed to be effected by properly
-    addressing, prepaying and posting the notice. Service of the notice is deemed to have been
-    effected 2 days after posting.
-3.  Where a notice is sent by facsimile transmission, service of the notice shall be deemed to be
-    effected upon receipt of a confirmation report confirming the facsimile was sent to/or received
-    at the facsimile number to which it was sent.
-4.  Where a notice is sent by electronic mail, service of the notice shall be deemed to be effected
-    upon receipt of a confirmation report confirming the electronic mail message was received at the
-    electronic mail address to which it was sent.
-
-### Notice of General Meeting
-
-Notice of every General Meeting shall be given in the manner authorised in this Constitution.
-
-## Seal
-
-### Safe Custody of Seal
-
-The Secretary General shall provide for safe custody of the Seal.
-
-### Affixing Seal
-
-The Seal shall only be used by authority of the Board and every document to which the seal is
-affixed shall be signed by two (2) members of the Board.
-
-## Patrons and Vice Patrons
-
-The Federation at its Annual General Meeting may appoint annually on the recommendation of the Board
-a Chief Patron and such number of Patrons and Vice-Patrons as may be required.
-
-## Resolution of Internal Disputes
-
-1.  Subject to all other internal Federation avenues (including, but not limited to, referral to the
-    Board and/or a Federation Judiciary Committee) being exhausted, disputes between Members (in
-    their capacity as Members) of the Federation, and disputes between Members and the Federation,
-    are to be submitted exclusively to the Court of Arbitration for Sport (CAS), Switzerland,
-    applying its own procedural rules.
-2.  The Federation may determine in which of the CAS registries any dispute is to be submitted.
-3.  The decisions of the CAS shall be final and binding.
+1.  be effected by properly addressing and transmitting the mail electronic transmission; and
+2.  have been delivered on the business day following its transmission.
 
 ## Indemnity
 
-1.  The Secretary General and every Director, auditor, manager, employee or agent of the Federation
-    shall be indemnified out of the property or assets of the Federation against any liability
-    incurred by him in his capacity as Director, auditor or agent in defending any proceedings,
-    whether civil or criminal, in which judgement is given in his favour or in which he is acquitted
-    or in connection with any application in relation to any such proceedings in which relief is,
-    under the Act, granted to him by the Court.
-2.  The Federation shall indemnify its Directors, managers and employees against all damages and
-    costs (including legal costs) for which any such Director, manager or employee; may be or become
-    liable to any third party in consequence of any act or omission except willful misconduct:
-    1.  In the case of a Director or, performed or made whilst acting on behalf of and with the
-        authority, express or implied of the Federation; and
-    2.  In the case of an employee, performed or made in the course of, and within the scope of his
-        employment by the Federation.
+### Indemnity of officers
 
-## Dissolution
+1.  This **clause 25** applies to every person who is or has been:
+    1.  a Director, or Company Secretary of the Company; and
+    2.  to any other officers, employees, former officers or former employees of the Company or of its related bodies corporate as the Board in each case may determine.
+    Each person referred to in this paragraph (a) is referred to as an Indemnified Officer for the purposes of the rest of **clause 25**.
+2.  The Company will indemnify each Indemnified Officer out of the property of the Company against:
+    1.  every liability (except liability for legal costs) that the Indemnified Officer incurs as an Officer of the Company or of a related body corporate of the Company; and
+    2.  all legal costs incurred in defending or resisting (or otherwise in connection with) proceedings, whether civil or criminal or of an administrative or investigatory nature, in which the Indemnified Officer becomes involved as an officer of the Company or of a related body corporate of the Company,
+    unless:
+    3.  the Company is forbidden by statute to indemnify the person against the liability or legal costs; or
+    4.  an indemnity by the Company of the person against the liability or legal costs would, if given, be made void by statute.
 
-The Federation may be wound up in accordance with the provisions of the Act.
+### Insurance
 
-## Interpretation
+The Company may pay or agree to pay, whether directly or through an interposed entity, a premium for a contract insuring an Indemnified Officer against liability that the Indemnified Officer incurs as an officer of the Company or of a related body corporate of the Company including liability for legal costs, unless:
 
-### Definitions
+1.  the Company is forbidden by statute to pay or agree to pay the premium; or
+2.  the contract would, if the Company paid the premium, be made void by statute.
 
-In this Constitution unless the contrary intention appears, these words shall have the following
-meanings:
+### Deed
 
-Act
-:   means the Associations Incorporation Act (NSW) 2009.
+The Company may enter into a deed with any Indemnified Officer or a deed poll to give effect to the rights conferred by **clause 25.1** on the terms the Board thinks fit (as long as they are consistent with **clause 25**).
 
-Board
-:   means the body consisting of the Directors under **Rule 28**.
+## Winding Up
 
-Constitution
-:   means this Constitution of the Federation.
+### Contributions of Members on winding up
 
-Country
-:   means a particular geographic area governed by one central government.
+1.  Each Voting Member must contribute to the Company's property if the Company is wound up while they are a Member or within one (1) year after their membership ceases.
+2.  The contribution is for:
+    1.  payment of the Company's debts and liabilities contracted before their membership ceased;
+    2.  the costs of winding up; and
+    3.  adjustment of the rights of the contributories among themselves,
+    and the amount is not to exceed $1.00 (AUD).
+3.  No other Member must contribute to the Company's property if the Company is wound up.
 
-Delegate
-:   means the person appointed from time to time to act for and on behalf of a National Touch
-    Association and represent the National Touch Association at General Meetings.
+### Excess property on winding up
 
-Director
-:   means an elected or appointed member of the Board.
+1.  If on the winding up or dissolution of the Company, and after satisfaction of all its debts and liabilities, any property remains, that property must be given or transferred to another body or bodies:
+    1.  having objects similar to those of the Company; and
+    2.  whose constitution prohibits (or each of whose constitutions prohibit) the distribution of its or their income and property among its or their members to an extent at least as great as is imposed under this Constitution.
+2.  That body is, or those bodies are, to be determined by the Voting Members through their Delegate at or before the time of dissolution or, failing that determination, by a judge who has or acquires jurisdiction in the matter.
 
-Financial Year
-:   means the period commencing on the first day of January and concluding on the thirty first day
-    of December of each year.
+## Dispute resolution
 
-General Meeting
-:   means the annual or any special general meeting of the Federation.
+### Court of Arbitration for Sport (CAS)
 
-Intellectual Property
-:   means all rights subsisting in copyright, business names, names, trademarks (or signs), logos,
-    designs, equipment, images (including photographs, videos or films) or service marks relating to
-    the Federation or any event, competition or Touch activity of or conducted, promoted or
-    administered by the Federation.
+The Company recognises the CAS, which will have jurisdiction to hear and determine the following, to the exclusion of all other courts, tribunals and arbitration bodies of any country or organisation whatsoever:
+1.  any final decision of a body made pursuant to these Articles that provides for an appeal from that decision directly to CAS; and
+2.  any matters as set out in the policies and regulations of FIT.
 
-Member
-:   means a member for the time being of the Federation under this Constitution. For:
+### Decisions
 
-    1.  NTA Member; refer to **Rules 13.1(a)(i), (ii) and 13.2**;
-    2.  Associate Member; refer to **Rules 13.1(b) and 13.3**;
-    3.  Individual Member, refer to **Rules 13.1(d) and 13.5**;
-    4.  Life Member, refer to **Rules 13.1(c) and 13.4**.
+1.  The CAS will resolve any matter referred definitively in accordance with its Code of Sports-Related Arbitration. CAS shall primarily apply the various Regulations of FIT and, additionally, the country's law where the Federation is registered.
+2.  Decisions of the CAS may not be challenged in any forum or on any grounds except for matters where the Corporations Act of Australia is to apply and for dispute resolution where the Swiss Federal Code on Private International Law is to apply.
 
-National Touch Association
-:   means an entity recognised under Rules 11 and 12 as the primary recognised peak governing body
-    of Touch in each Country with the object to promote, encourage foster, develop, extend, govern
-    and control the sport of Touch in that Country.
+## Amendment of Constitution
 
-Objects
-:   means the objects of the Federation in **Rule 3**.
+No addition, alteration or amendment shall be made to this Constitution unless the same has been approved by Special Resolution and in accordance with the Corporations Act.
 
-Participant
-:   means a person who participates, including but not only, as officials, players and referees in a
-    Touch competition organised or controlled by the Federation or a National Touch Association.
+# Schedule 1
+{:.no_toc.schedule}
 
-Regulations
-:   means any Regulations made by the Board under **Rule 37**.
+List of Members and their class of membership as at the date of incorporation of the Company.
 
-Seal
-:   means the common seal of the Federation and includes any official seal of the Federation.
+## Full Member
+{:.no_toc}
 
-Special Resolution
-:   means a resolution passed in accordance with the Act.
+-   Australia
+-   Fiji
+-   New Zealand
+-   Papua New Guinea
+-   Canada
+-   USA
+-   Cook Islands
+-   Japan
+-   Samoa
+-   Ireland
+-   England
+-   South Africa
+-   Singapore
+-   Italy
+-   Malaysia
+-   Scotland
+-   Wales
+-   France
+-   India
+-   Germany
+-   Hong Kong
+-   Jersey
+-   Spain
+-   Belgium
+-   Guernsey
+-   Switzerland
+-   Austria
+-   China
+-   Chinese Taipei
+-   Luxembourg
+-   Netherlands
+-   Portugal
+-   Chile
+-   Czech Republic
+-   United Arab Emirates
+-   Philippines
+-   Qatar
+-   Sweden
 
-Touch
-:   means the sport or game played under the rules determined from time to time by the Federation.
+## Observer Member
+{:.no_toc}
 
-### Interpretation
-
-In this Constitution:
-
-1.  A reference to a function includes a reference to a power, authority and duty;
-2.  A reference to the exercise of a function includes, where the function is a power, authority or
-    duty, a reference to the exercise of the power or authority of the performance of the duty;
-3.  Words importing the singular include the plural and vice versa;
-4.  Words importing any gender include the other genders;
-5.  References to persons include corporations and bodies politic;
-6.  References to a person include the legal personal representatives, successors and permitted
-    assigns of that person;
-7.  a reference to a statute, ordinance, code or other law includes regulations and other statutory
-    instruments under it and consolidations, amendments, re-enactments or replacements of any of
-    them (whether of the same or any legislative authority having jurisdiction); and
-8.  A reference to "writing" shall unless the contrary intention appears, be construed as including
-    references to printing, lithography, photography and other modes of representing or reproducing
-    words in a visible form, including messages sent by electronic mail. Any question as to the
-    interpretation of this document shall be resolved by the Board whose decision shall be final.
-
-### Severance
-
-If any provision of this Constitution or any phrase contained in it is invalid or unenforceable in
-any jurisdiction, the phrase or provision is to be read down for the purpose of that jurisdiction,
-if possible, so as to be valid and enforceable, and otherwise shall be severed to the extent of the
-invalidity or unenforceability, without affecting the remaining provisions of this Constitution or
-affecting the validity or enforceability of that provision in any other jurisdiction.
-
-### The Act
-
-Except where the contrary intention appears, in this Constitution, an expression that deals with a
-matter dealt with by a particular provision of the Act, has the same meaning as that provision of
-the Act. This Constitution expressly displaces the model rules made under the Act.
+-   Bulgaria
+-   Kiribati
+-   Niue
+-   Solomon Islands
+-   Sri Lanka
+-   Tokelau
+-   Tonga
+-   Thailand
+-   Estonia
