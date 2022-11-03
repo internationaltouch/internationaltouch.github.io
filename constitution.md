@@ -434,9 +434,9 @@ The only business that may be transacted at a postponed General Meeting is the b
 ### Proxy Voting
 
 1.  Proxy voting shall be permitted at General Meetings in accordance with the Corporations Act and the Regulations.
-1.  The proxy needs to be on the prescribed form and lodged with the Company Secretary 7 days prior to the General Meeting
-1.  Proxy shall be granted to a Delegate.
-1.  No Delegate shall hold proxies for more than one other Member.
+2.  The proxy needs to be on the prescribed form and lodged with the Company Secretary 7 days prior to the General Meeting
+3.  Proxy shall be granted to a Delegate.
+4.  No Delegate shall hold proxies for more than one other Member.
 
 ### Postal or Electronic voting
 
@@ -550,8 +550,8 @@ The Board may allocate portfolios to Directors.
 ### Eligibility
 
 1.  A Director must not hold a position at the Board level of an NTO or be an employee (defined as a disqualifying position) of FIT or a Member.
-1.  A Director who accepts a disqualifying position must notify the Board of that fact immediately and is deemed to have vacated their office as a Director.
-1.  A Director must also meet the fit and proper person test as in the Corporations Act, and cannot be a disqualifying person for the purposes of that provision.
+2.  A Director who accepts a disqualifying position must notify the Board of that fact immediately and is deemed to have vacated their office as a Director.
+3.  A Director must also meet the fit and proper person test as in the Corporations Act, and cannot be a disqualifying person for the purposes of that provision.
 
 ### Elected Directors
 
@@ -571,9 +571,9 @@ The Board may allocate portfolios to Directors.
     3.  there will be a vote of the Members conducted in accordance with **clause 15.4(h)** to fill the vacancy by electing someone to that office
 8.  Elections for Elected Directors shall be by secret ballot, in accordance with this **clause 15.4(h)** and the Regulations, at the relevant General Meeting on papers prepared by the Company Secretary. The ballot for an election to fill one or more Elected Director positions will be conducted in accordance with the following procedure:
     1.  If at the close of nominations for an election to fill one or more Elected Director positions the number of eligible nominees is equal to or less than the number of positions to be filled, then those nominated shall be declared elected only if approved by the majority of the votes cast in a secret ballot; and
-    1.  If at the close of nominations for an election to fill one or more Elected Director positions there are more eligible nominees than the number of positions to be filled, a secret ballot will be conducted as determined by the Board from time to time and under any such poll the eligible nominee/s who receives the highest number of votes (in accordance with any Regulations) will be elected to fill the Elected Director positions.
-    1.  In the event of a tied vote for a vacant position, a new ballot will be called to break the tie. The new ballot will be conducted in the same manner as the first, with only the tied candidates listed. If the tie cannot be broken with the subsequent ballot, the tied position will remain vacant.
-    1.  In the event of a tied vote for ranking to determine which candidate will serve the longer term, a new ballot will be called to break the tie. The new ballot will be conducted in the same manner as the first, with only the tied candidates listed. If the tie cannot be broken with the subsequent ballot, all candidates' term duration will be limited to the lessor of the tied positions.
+    2.  If at the close of nominations for an election to fill one or more Elected Director positions there are more eligible nominees than the number of positions to be filled, a secret ballot will be conducted as determined by the Board from time to time and under any such poll the eligible nominee/s who receives the highest number of votes (in accordance with any Regulations) will be elected to fill the Elected Director positions.
+    3.  In the event of a tied vote for a vacant position, a new ballot will be called to break the tie. The new ballot will be conducted in the same manner as the first, with only the tied candidates listed. If the tie cannot be broken with the subsequent ballot, the tied position will remain vacant.
+    4.  In the event of a tied vote for ranking to determine which candidate will serve the longer term, a new ballot will be called to break the tie. The new ballot will be conducted in the same manner as the first, with only the tied candidates listed. If the tie cannot be broken with the subsequent ballot, all candidates' term duration will be limited to the lessor of the tied positions.
 
 ### Casual Vacancy in ranks of Elected Directors
 
@@ -703,10 +703,10 @@ The continuing Directors may act despite a vacancy in their number.
 ### Convening meetings
 
 1.  A Director may, and the Company Secretary at the request of a Director must, convene a Board meeting.
-1.  Notice of a meeting of the Board must be given individually to each Director (except a Director on leave of absence approved by the Board).  Notice of a meeting of the Board must be given not less than 14 days before the meeting and may be given in person, or by post or by telephone, or other electronic means.
-1.  A Director may waive notice of a meeting of the Board by giving notice to that effect to the Company in person or by post or by telephone, or other electronic means.
-1.  A person who attends a meeting of the Board waives any objection that person may have in relation to a failure to give notice of the meeting.
-1.  The non-receipt of a notice of a meeting of the Board or the accidental omission to give notice of a meeting to a person entitled to receive notice does not invalidate anything done (including the passing of a resolution) at a meeting of the Board.
+2.  Notice of a meeting of the Board must be given individually to each Director (except a Director on leave of absence approved by the Board).  Notice of a meeting of the Board must be given not less than 14 days before the meeting and may be given in person, or by post or by telephone, or other electronic means.
+3.  A Director may waive notice of a meeting of the Board by giving notice to that effect to the Company in person or by post or by telephone, or other electronic means.
+4.  A person who attends a meeting of the Board waives any objection that person may have in relation to a failure to give notice of the meeting.
+5.  The non-receipt of a notice of a meeting of the Board or the accidental omission to give notice of a meeting to a person entitled to receive notice does not invalidate anything done (including the passing of a resolution) at a meeting of the Board.
 
 ### Chairperson
 
@@ -909,11 +909,11 @@ The Company may enter into a deed with any Indemnified Officer or a deed poll to
 
 The Company recognises the CAS, which will have jurisdiction to hear and determine the following, to the exclusion of all other courts, tribunals and arbitration bodies of any country or organisation whatsoever:
 1.  any final decision of a body made pursuant to these Articles that provides for an appeal from that decision directly to CAS; and
-2.  any matters as set out in the policies and regulations of ITF.
+2.  any matters as set out in the policies and regulations of FIT.
 
 ### Decisions
 
-1.  The CAS will resolve any matter referred definitively in accordance with its Code of Sports-Related Arbitration. CAS shall primarily apply the various Regulations of FITand, additionally, the country's law where the Federation is registered.
+1.  The CAS will resolve any matter referred definitively in accordance with its Code of Sports-Related Arbitration. CAS shall primarily apply the various Regulations of FIT and, additionally, the country's law where the Federation is registered.
 2.  Decisions of the CAS may not be challenged in any forum or on any grounds except for matters where the Corporations Act of Australia is to apply and for dispute resolution where the Swiss Federal Code on Private International Law is to apply.
 
 ## Amendment of Constitution
