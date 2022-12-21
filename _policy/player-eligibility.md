@@ -13,41 +13,35 @@ review_date: 2023-12-31
 
 ## Introduction
 
-Player eligibility for international sporting competition can be a complex and often emotive issue.
-The defining elements are at the very heart of global competition and key issues involved in
-ascertaining eligibility include aspects of nationality, passport, residency, place of birth,
-playing history, the respective country's selection process and even a player's gender, birth date
-and age.
-
-A player's eligibility to represent a country requires some form of direct link between the
-individual and the represented country. The International Court of Arbitration for Sport (CAS) has
-ruled that Legal Nationality and Sporting Nationality may be "different", one defined in Public Law
-and the other in Private Law.
-
-The Federation of International Touch, therefore, has the authority to decide eligibility criteria
-for participants in the sport in the international arena as governed by the Federation and NTOs.
-Specific eligibility criteria may differ from Legal Nationality and should be subject to any
-internationally endorsed anti-discrimination or equality policies. The focus of this Eligibility
-Policy is that the criteria are both fair and equitable to most.
-
-The Federation also agrees that the basis of International Sport should be just that, about
-individuals competing for their country against individuals from another country and any competing
-national team should be a representative national team organized by the national governing body of
-the relevant National Touch Organisation (NTO).
+1.  Player eligibility for international sporting competition can be a complex and often emotive
+    issue. The defining elements are at the very heart of global competition and key issues involved
+    in ascertaining eligibility include aspects of nationality, passport, residency, place of birth,
+    playing history, the respective country's selection process and even a player's gender, birth
+    date and age.
+2.  A player's eligibility to represent a country requires some form of direct link between the
+    individual and the represented country. The International Court of Arbitration for Sport (CAS)
+    has ruled that Legal Nationality and Sporting Nationality may be "different", one defined in
+    Public Law and the other in Private Law.
+3.  The Federation of International Touch, therefore, has the authority to decide eligibility
+    criteria for participants in the sport in the international arena as governed by the Federation
+    and NTOs. Specific eligibility criteria may differ from Legal Nationality and should be subject
+    to any internationally endorsed anti-discrimination or equality policies. The focus of this
+    Eligibility Policy is that the criteria are both fair and equitable to most.
+4.  The Federation also agrees that the basis of International Sport should be just that, about
+    individuals competing for their country against individuals from another country and any
+    competing national team should be a representative national team organized by the national
+    governing body of the relevant National Touch Organisation (NTO).
 
 ### Application
 
-This policy applies to all Federation Events attracting test caps where National Touch
-Associations (NTOs) play against each other.
-
-This policy applies to all players competing at any Federation Event. NTOs are responsible for
-ensuring all individuals representing that Member meet the eligibility criteria prior to
-participating in a Federation Event.
-
-NTOs are encouraged to apply this policy to all events that are not afforded Federation Event
-status.
-
-This policy does not apply to officials, coaches, referees, or support staff.
+1.  This policy applies to all Federation Events attracting test caps where National Touch
+    Associations (NTOs) play against each other.
+2.  This policy applies to all players competing at any Federation Event. NTOs are responsible for
+    ensuring all individuals representing that Member meet the eligibility criteria prior to
+    participating in a Federation Event.
+3.  NTOs are encouraged to apply this policy to all events that are not afforded Federation Event
+    status.
+4.  This policy does not apply to officials, coaches, referees, or support staff.
 
 ### Definitions
 
@@ -225,42 +219,42 @@ to a new NTO.
 
 ## Sanctions for Policy Breaches
 
-1. Should a Member NTO be alleged to have allowed an ineligible individual to represent that NTO and
-   participate in any match during any Federation Event and eligibility is not proven by the
-   individual the Federation (or any individual or committee appointed by the Federation) may take
-   appropriate action. Penalties that may be imposed include, but are not limited to the following:
-    1. Deduction of competition points; and/or
-    2. Monetary fines; and/or
-    3. Banning of individuals from competitions or remaining matches; and/or
-    4. Banning of teams from competitions or remaining matches; and/or
-    5. Combination of any of the above.
+1.  Should a Member NTO be alleged to have allowed an ineligible individual to represent that NTO
+    and participate in any match during any Federation Event and eligibility is not proven by the
+    individual the Federation (or any individual or committee appointed by the Federation) may take
+    appropriate action. Penalties that may be imposed include, but are not limited to the following:
+    1.  Deduction of competition points; and / or
+    2.  Monetary fines; and / or
+    3.  Banning of individuals from competitions or remaining matches; and / or
+    4.  Banning of teams from competitions or remaining matches; and / or
+    5.  Combination of any of the above.
 
 ## Protests and Appeals
 
-1. A National Touch Organisation may protest to the Federation appointed person or to their
-   appointee, or to any Tournament Judiciary to consider such matters, about an individual either
-   intending to Represent or who is Representing or has Represented another NTO at a Federation
-   Event. Any eligibility protest must relate to the eligibility criteria detailed in paragraphs 4.1
-   to 4.3. Further details will normally be included in Event Rules and Regulation documents.
-2. Any eligibility protest must be submitted using the Player Eligibility Protest Form distributed
-   in the event information package and must be submitted within thirty (30) minutes of completion
-   of the game in which the alleged transgression occurred. The protest circumstances are to be
-   clearly advised and the available evidence is supplied at the time of submission.
-3. The Federation appointee, through the respective Tournament Judiciary will consider the matter
-   and will advise all associated NTOs and the individual concerned of the decision without delay.
-4. The complainant National Touch Organisation may appeal the Federation-appointed person's decision
-   to the Federation Board to determine an appeal in accordance with the Federation Judiciary
-   Policy.
-5. Any matter of interpretation, or matter not provided for in this Policy, will be determined by
-   the FIT Board.
+1.  A National Touch Organisation may protest to the Federation appointed person or to their
+    appointee, or to any Tournament Judiciary to consider such matters, about an individual either
+    intending to Represent or who is Representing or has Represented another NTO at a Federation
+    Event. Any eligibility protest must relate to the eligibility criteria detailed in paragraphs 4.1
+    to 4.3. Further details will normally be included in Event Rules and Regulation documents.
+2.  Any eligibility protest must be submitted using the Player Eligibility Protest Form distributed
+    in the event information package and must be submitted within thirty (30) minutes of completion
+    of the game in which the alleged transgression occurred. The protest circumstances are to be
+    clearly advised and the available evidence is supplied at the time of submission.
+3.  The Federation appointee, through the respective Tournament Judiciary will consider the matter
+    and will advise all associated NTOs and the individual concerned of the decision without delay.
+4.  The complainant National Touch Organisation may appeal the Federation-appointed person's decision
+    to the Federation Board to determine an appeal in accordance with the Federation Judiciary
+    Policy.
+5.  Any matter of interpretation, or matter not provided for in this Policy, will be determined by
+    the FIT Board.
 
 ## Policy History / Approval/Application
 
-1. This policy was approved by the FIT Board on. 24th November 2022
-2. This policy, and any subsequent amendment of this policy, will take effect immediately upon
-   communication of the same to NTO/NTOs through the FIT Digital Identity mailbox.
-3. National Touch Organisations are responsible for the appropriate application of this policy.
-4. The policy is due for review in December 2023.
+1.  This policy was approved by the FIT Board on. 24th November 2022
+2.  This policy, and any subsequent amendment of this policy, will take effect immediately upon
+    communication of the same to NTO/NTOs through the FIT Digital Identity mailbox.
+3.  National Touch Organisations are responsible for the appropriate application of this policy.
+4.  The policy is due for review in December 2023.
 
 ## Index of Decisions
 
