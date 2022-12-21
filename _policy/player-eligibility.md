@@ -71,7 +71,7 @@ possible for a player to establish eligibility pursuant to Rule (2) through a pa
 parent.
 
 NTO
-:   is the acronym for a National Touch organisation.
+:   is the acronym for a National Touch Organisation.
 
 Parent
 :   means either a biological/blood parent of the player or a person who has adopted the player in
@@ -161,7 +161,7 @@ Tier Two Nation
 9. Where a player is not able to provide a copy of the relevant birth certificate, passport,
    parentage or grandparentage, or evidence of residency the matter shall be referred to the
    relevant FIT Authorising Officer and the player shall only be entitled to represent the national
-   team if he/she can provide satisfactory evidence to FIT authorising officers that the player is
+   team if he/she can provide satisfactory evidence to FIT Authorising Officers that the player is
    eligible to do so. Affidavits by a player will not be considered satisfactory evidence.
 10. Nations shall promptly, before or upon the requested date, provide FIT with a copy of any
     evidence they have relied on pursuant to rules (2) and (3). Where a nation fails to do so, or
