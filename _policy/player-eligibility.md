@@ -1,11 +1,11 @@
 ---
 title: Player Eligibility Policy
 
-approval_authority: President
-responsible_officer: Event Commission Chair
+approval_authority: FIT Board
+responsible_officer: Event Manager
 first_approved: 2010-09-14
-last_amended: 2019-08-16
-effective_date: 2020-01-01
+last_amended: 2022-11-21
+effective_date: 2022-12-17
 review_date: 2023-12-31
 ---
 
